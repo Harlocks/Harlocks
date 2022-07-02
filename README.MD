@@ -28,8 +28,8 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
   
 <h4> 📍 ESTANTE </h4>
 
-| LIVRO | AUTOR | PÁGINAS/PROGRESSO | 
+| LIVRO | AUTOR | PÁGINAS — PROGRESSO | 
 | :---- | :---: | :-:|
-| O Médico e o Monstro | Robert Louis Stevenson | 093 ————— 100% | 
+| O Médico e o Monstro | Robert Louis Stevenson | 093/093 ————— 100/100% | 
 
 <h4> 📍 LINGUAGENS </h4>
