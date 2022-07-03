@@ -31,6 +31,6 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 | LIVRO | AUTOR | PÁGINAS — PROGRESSO | 
 | :---- | :---: | :-:|
 | O Médico e o Monstro | Robert Louis Stevenson | 093/093 ————— 100%/100% |
-| Heróis da Fé | Orlando Boyer| 004/246 ————— 2%/100%
+| Heróis da Fé | Orlando Boyer| 030/246 ————— 12%/100%
 
 <h4> 📍 LINGUAGENS </h4>
