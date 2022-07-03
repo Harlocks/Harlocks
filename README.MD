@@ -34,3 +34,5 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 | Heróis da Fé | Orlando Boyer| 030/246 ————— 12%/100%
 
 <h4> 📍 LINGUAGENS </h4>
+<h4> 📍 PROJETOS </h4>
+<h4> 📍 NETWORK </h4>
