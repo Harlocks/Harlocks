@@ -22,17 +22,18 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 
 <h4> 📍 CONFIG </h4>
 
-<h5> FONTS </h5>
+<h5> FONTES </h5>
 
  - 》 [Iosevka](https://github.com/be5invis/iosevka)</li>
  - 》 [Monaco](https://github.com/taodongl/monaco.ttf)</li>
  
- <h5> THEMES/ICONS </h5>
+<h5> TEMAS/ICONES </h5>
  
 - 》 [Dobri Next -C04- Material](https://marketplace.visualstudio.com/items?itemName=sldobri.bunker)
 - 》 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
- 
-  
+
+<h5> SO</h5> 
+
 <h4> 📍 ESTANTE </h4>
 
 | LIVRO | AUTOR | PÁGINAS — PROGRESSO | 
@@ -42,4 +43,4 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 
 <h4> 📍 LINGUAGENS </h4>
 <h4> 📍 PROJETOS </h4>
-<h4> 📍 NETWORK </h4>
+<h4> 📍 REDE </h4>
