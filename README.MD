@@ -20,10 +20,17 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 
 <hr>
 
-<h4> 📍 FONTS </h4>
+<h4> 📍 CONFIG </h4>
+
+<h5> FONTS </h5>
 
  - 》 [Iosevka](https://github.com/be5invis/iosevka)</li>
  - 》 [Monaco](https://github.com/taodongl/monaco.ttf)</li>
+ 
+ <h5> THEMES/ICONS </h5>
+ 
+- 》 [Dobri Next -C04- Material](https://marketplace.visualstudio.com/items?itemName=sldobri.bunker)
+- 》 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
  
   
 <h4> 📍 ESTANTE </h4>
