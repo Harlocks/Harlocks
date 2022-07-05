@@ -47,6 +47,11 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 | :---- | :---: | :-:|
 | O Médico e o Monstro | Robert Louis Stevenson | 093/093 ————— 100%/100% |
 | Heróis da Fé | Orlando Boyer| 045/246 ————— 18%/100%
+| Devocional - O hobbit | Ed Strauss | 000/000 ————— 0%/100% |
+| O príncipe | Nicolau Maquiavel | 000/000 ————— 0%/100% |
+| A arte da Guerra | Sun Tzu | 000/000 ————— 0%/100% |
+
+
 
 <!-- —————— ESTANTE —————— -->
 
