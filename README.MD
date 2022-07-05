@@ -33,7 +33,7 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 - 》 [Dobri Next -C04- Material](https://marketplace.visualstudio.com/items?itemName=sldobri.bunker)
 - 》 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-<h5> SO</h5>
+<h5> S.O</h5>
 
 - 》 Archcraft
 - 》 Windows 10
