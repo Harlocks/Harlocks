@@ -77,7 +77,7 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 | LIVRO | AUTOR | PÁGINAS | PROGRESSO | STATUS |
 | :---- | :---: | :-:| :-: | :-: |
 | O Médico e o Monstro | Robert Louis Stevenson | 093/093 | 100% | ✔️ |
-| Heróis da Fé | Orlando Boyer | 045/246 | 18% |⏳ | 
+| Heróis da Fé | Orlando Boyer | 061/246 | 24.8% |⏳ | 
 | Devocional - O Hobbit | Ed Strauss | 000/203 | 0% | ⏳ |
 | O príncipe | Nicolau Maquiavel | 000/089 | 0% | ⏳ |
 | A arte da Guerra | Sun Tzu | 000/125 | 0% | ⏳ |
