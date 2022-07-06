@@ -43,13 +43,13 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 <!-- —————— ESTANTE —————— -->
 <h4> 📍 ESTANTE </h4>
 
-| LIVRO | AUTOR | PÁGINAS — PROGRESSO | 
-| :---- | :---: | :-:|
-| O Médico e o Monstro | Robert Louis Stevenson | 093/093 ————— 100%/100% |
-| Heróis da Fé | Orlando Boyer| 045/246 ————— 18%/100%
-| Devocional - O hobbit | Ed Strauss | 000/000 ————— 0%/100% |
-| O príncipe | Nicolau Maquiavel | 000/000 ————— 0%/100% |
-| A arte da Guerra | Sun Tzu | 000/000 ————— 0%/100% |
+| LIVRO | AUTOR | PÁGINAS | PROGRESSO | STATUS |
+| :---- | :---: | :-:| :-: | :-: |
+| O Médico e o Monstro | Robert Louis Stevenson | 093/093 | 100% | ✔️ |
+| Heróis da Fé | Orlando Boyer | 045/246 | 18% |⏳ | 
+| Devocional - O hobbit | Ed Strauss | 000/203 | 0% | ⏳ |
+| O príncipe | Nicolau Maquiavel | 000/089 | 0% | ⏳ |
+| A arte da Guerra | Sun Tzu | 000/125 | 0% | ⏳ |
 
 
 
@@ -58,6 +58,8 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 <!-- —————— LINGUAGENS —————— -->
 <h4> 📍 LINGUAGENS </h4>
 
+![Python Logo](https://cdn.discordapp.com/attachments/569005079932305410/994056796803190844/python.png "Python")
+![Shell Script Logo](https://cdn.discordapp.com/attachments/569005079932305410/994058299215462570/shellscript.png "Shell Script")
 
 <!-- —————— LINGUAGENS —————— -->
 
