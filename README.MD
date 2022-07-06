@@ -1,5 +1,5 @@
 <hr>
-<h4> 💭 Decerto, a busca pela sabedoria tem dois caminhos: Buscar agradar unicamente em primeiro lugar Deus. Ou, agradar unicamente a humanidade, e ser um tolo, pecador. Cavalheiros e madames, eu escolho o primeiro caminho. </h4>
+<em> 💭 Decerto, a busca pela sabedoria tem dois caminhos: Buscar agradar unicamente em primeiro lugar Deus. Ou, agradar unicamente a humanidade, e ser um tolo, pecador. Cavalheiros e madames, eu escolho o primeiro caminho. </em> </h4>
 
 <hr>
 <em> <!-- —————— Abrimento dos versículos —————— -->
@@ -20,15 +20,22 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 
 <hr>
 
+<!-- —————— SOBRE MIM —————— -->
+<h4> 📍 SOBRE MIM </h4>
+
+Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um vocabulário mais amplo e enriquecedor...)</em>
+
+<!-- —————— SOBRE MIM —————— -->
+
 <!-- —————— CONFIGURAÇÃO —————— -->
-<h4> 📍 CONFIG </h4> 
+<h4> 📍 MINHA CONFIG </h4> 
 
 <h5> FONTES </h5>
 
  - 》 [Iosevka](https://github.com/be5invis/iosevka)</li>
  - 》 [Monaco](https://github.com/taodongl/monaco.ttf)</li>
  
-<h5> TEMAS/ICONES </h5>
+<h5> TEMAS/ÍCONES </h5>
  
 - 》 [Dobri Next -C04- Material](https://marketplace.visualstudio.com/items?itemName=sldobri.bunker)
 - 》 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
@@ -39,21 +46,6 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 - 》 Windows 10
 
 <!-- —————— CONFIGURAÇÃO —————— -->
-
-<!-- —————— ESTANTE —————— -->
-<h4> 📍 ESTANTE </h4>
-
-| LIVRO | AUTOR | PÁGINAS | PROGRESSO | STATUS |
-| :---- | :---: | :-:| :-: | :-: |
-| O Médico e o Monstro | Robert Louis Stevenson | 093/093 | 100% | ✔️ |
-| Heróis da Fé | Orlando Boyer | 045/246 | 18% |⏳ | 
-| Devocional - O hobbit | Ed Strauss | 000/203 | 0% | ⏳ |
-| O príncipe | Nicolau Maquiavel | 000/089 | 0% | ⏳ |
-| A arte da Guerra | Sun Tzu | 000/125 | 0% | ⏳ |
-
-
-
-<!-- —————— ESTANTE —————— -->
 
 <!-- —————— LINGUAGENS —————— -->
 <h4> 📍 LINGUAGENS </h4>
@@ -67,6 +59,7 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 <!-- —————— PROJETOS —————— -->
 <h4> 📍 PROJETOS </h4>
 
+⏳ "Badges GitHub" (*Emblemas para se usar no perfil do Github*)
 
 <!-- —————— PROJETOS —————— -->
 
@@ -74,12 +67,30 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 <!-- —————— REDE —————— -->
 <h4> 📍 REDE </h4>
 
+⏳ Sem nenhuma pronta no momento.
 
 <!-- —————— REDE —————— -->
 
+<!-- —————— ESTANTE —————— -->
+<h4> 📍 ESTANTE </h4>
 
-<!-- —————— SOBRE MIM —————— -->
-<h4> 📍 SOBRE MIM </h4>
+| LIVRO | AUTOR | PÁGINAS | PROGRESSO | STATUS |
+| :---- | :---: | :-:| :-: | :-: |
+| O Médico e o Monstro | Robert Louis Stevenson | 093/093 | 100% | ✔️ |
+| Heróis da Fé | Orlando Boyer | 045/246 | 18% |⏳ | 
+| Devocional - O Hobbit | Ed Strauss | 000/203 | 0% | ⏳ |
+| O príncipe | Nicolau Maquiavel | 000/089 | 0% | ⏳ |
+| A arte da Guerra | Sun Tzu | 000/125 | 0% | ⏳ |
+| O Homem Eterno | G.K Chesterton | 000/382 | 0% | ⏳ |
+| O Diário de Anne Frank | Anne Frank | 000/255 | 0% | ⏳ |
+| Petrus Logus - O Guardião do Tempo | Augusto Cury | 291/291 | 100% | ✔️ |
+| O Senhor dos Ladrões | Cornelia Funke | 367/367 | 100% | ✔️ |
+| A Obra do Espírito | Jonathan Edwards | 000/115 | 0% | ⏳ |
+| Didaqué - A Instrução dos Doze Apóstolos | Brian Gordon | 000/049 | 0% | ⏳ |
+| A Chave Dourada | George MacDonald | 000/047 | 0% | ⏳ |
+| O Peregrino | John Bunyan | 000/297 | 0% | ⏳ |
+| A Imitação de Cristo | Tomás de Kempis | 000/191 | 0% | ⏳ |
 
 
-<!-- —————— SOBRE MIM —————— -->
+
+<!-- —————— ESTANTE —————— -->
