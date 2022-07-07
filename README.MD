@@ -87,7 +87,7 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 | O Senhor dos Ladrões | Cornelia Funke | 367/367 | 100% | ✔️ |
 | A Obra do Espírito | Jonathan Edwards | 000/115 | 0% | ⏳ |
 | Didaqué - A Instrução dos Doze Apóstolos | ——— | 000/049 | 0% | ⏳ |
-| A Chave Dourada | George MacDonald | 000/047 | 0% | ⏳ |
+| A Chave Dourada | George MacDonald | 047/047 | 100% | ✔️ |
 | O Peregrino | John Bunyan | 000/297 | 0% | ⏳ |
 | A Imitação de Cristo | Tomás de Kempis | 000/191 | 0% | ⏳ |
 
