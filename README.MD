@@ -59,7 +59,7 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 <!-- —————— PROJETOS —————— -->
 <h4> 📍 PROJETOS </h4>
 
-⏳ *Badges GitHub* (*Emblemas para se usar no perfil do Github*)
+⏳ **Badges GitHub** (*Emblemas para se usar no perfil do Github*)
 
 <!-- —————— PROJETOS —————— -->
 
