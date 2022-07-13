@@ -90,7 +90,7 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 | A Chave Dourada | George MacDonald | 047/047 | 100% | ✔️ |
 | O Peregrino | John Bunyan | 000/297 | 0% | ⏳ |
 | A Imitação de Cristo | Tomás de Kempis | 000/191 | 0% | ⏳ |
-
+| 1984 | George Orwell | 000/357 | 0% | ⏳ |
 
 
 <!-- —————— ESTANTE —————— -->
