@@ -92,5 +92,6 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 | A Imitação de Cristo | Tomás de Kempis | 000/191 | 0% | ⏳ |
 | 1984 | George Orwell | 000/357 | 0% | ⏳ |
 | A Imitação de Cristo | Tomás de Kempis | 000/191| 0% | ⏳ |
+| Nascido Escravo | Martinho Lutero | 000/247 | 0% | ⏳ |
 
 <!-- —————— ESTANTE —————— -->
