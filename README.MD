@@ -93,5 +93,8 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 | 1984 | George Orwell | 000/357 | 0% | ⏳ |
 | A Imitação de Cristo | Tomás de Kempis | 000/191| 0% | ⏳ |
 | Nascido Escravo | Martinho Lutero | 000/247 | 0% | ⏳ |
-| 
+| Linux - O Guia Essencial - 5º Edição | Stephen Figgins, Robert Love, Arnold Robbins, Aaron Weber, Ellen Siever | 005/854 | 1% | ⏳ |  
+
+
+
 <!-- —————— ESTANTE —————— -->
