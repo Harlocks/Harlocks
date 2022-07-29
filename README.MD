@@ -1,5 +1,5 @@
 <hr>
-<em> 💭 Decerto, a busca pela sabedoria tem dois caminhos: Buscar agradar unicamente em primeiro lugar Deus. Ou, agradar unicamente a humanidade, e ser um tolo, pecador. Cavalheiros e madames, eu escolho o primeiro caminho. </em> </h4>
+<em> Decerto, a busca pela sabedoria tem dois caminhos: Buscar agradar unicamente em primeiro lugar Deus. Ou, agradar unicamente a humanidade, e ser um tolo, pecador. Cavalheiros e madames, eu escolho o primeiro caminho. 💭 </em> </h4>
 
 <hr>
 <em> <!-- —————— Abrimento dos versículos —————— -->
