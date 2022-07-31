@@ -60,6 +60,8 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 <h4> 📍 PROJETOS </h4>
 
 ⏳ **Badges GitHub** (*Emblemas para se usar no perfil do Github*)
+⏳ **Akfetch** (Alternativa simples ao neofetch)
+⏳ **Tint2Theme** (Tema feito por mim para a barra Tint2)
 
 <!-- —————— PROJETOS —————— -->
 
