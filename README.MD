@@ -78,18 +78,18 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 
 | LIVRO | AUTOR | PÁGINAS | PROGRESSO | STATUS |
 | :---- | :---: | :-:| :-: | :-: |
-| O Médico e o Monstro | Robert Louis Stevenson | 093/093 | 100% | ✔️ |
+| O Médico e o Monstro | Robert Louis Stevenson | 093/093 | 100% | ![Completo](https://cdn.discordapp.com/attachments/513198459193655296/1004116453177434303/verify.png) |
 | Heróis da Fé | Orlando Boyer | 061/246 | 24.8% |⏳ | 
 | Devocional - O Hobbit | Ed Strauss | 000/203 | 0% | ⏳ |
 | O príncipe | Nicolau Maquiavel | 000/089 | 0% | ⏳ |
 | A arte da Guerra | Sun Tzu | 000/125 | 0% | ⏳ |
 | O Homem Eterno | G.K Chesterton | 000/382 | 0% | ⏳ |
 | O Diário de Anne Frank | Anne Frank | 000/255 | 0% | ⏳ |
-| Petrus Logus - O Guardião do Tempo | Augusto Cury | 291/291 | 100% | ✔️ |
-| O Senhor dos Ladrões | Cornelia Funke | 367/367 | 100% | ✔️ |
+| Petrus Logus - O Guardião do Tempo | Augusto Cury | 291/291 | 100% | ![Completo](https://cdn.discordapp.com/attachments/513198459193655296/1004116453177434303/verify.png) |
+| O Senhor dos Ladrões | Cornelia Funke | 367/367 | 100% | ![Completo](https://cdn.discordapp.com/attachments/513198459193655296/1004116453177434303/verify.png) |
 | A Verdadeira Obra do Espírito | Jonathan Edwards | 007/115 | 6% | ⏳ |
-| Didaqué - A Instrução dos Doze Apóstolos | ——— | 049/049 | 100% | ✔️ |
-| A Chave Dourada | George MacDonald | 047/047 | 100% | ✔️ |
+| Didaqué - A Instrução dos Doze Apóstolos | ——— | 049/049 | 100% | ![Completo](https://cdn.discordapp.com/attachments/513198459193655296/1004116453177434303/verify.png) |
+| A Chave Dourada | George MacDonald | 047/047 | 100% | ![Completo](https://cdn.discordapp.com/attachments/513198459193655296/1004116453177434303/verify.png) |
 | O Peregrino | John Bunyan | 000/297 | 0% | ⏳ |
 | A Imitação de Cristo | Tomás de Kempis | 000/191 | 0% | ⏳ |
 | 1984 | George Orwell | 000/357 | 0% | ⏳ |
