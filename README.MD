@@ -21,14 +21,14 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 <hr>
 
 <!-- —————— SOBRE MIM —————— -->
-<h4> 📍 SOBRE MIM </h4>
+#### ![](https://cdn.discordapp.com/attachments/513198459193655296/1006378640134643772/icon-golden16.png) SOBRE MIM 
 
 Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um vocabulário mais amplo e enriquecedor...)</em>
 
 <!-- —————— SOBRE MIM —————— -->
 
 <!-- —————— CONFIGURAÇÃO —————— -->
-<h4> 📍 MINHA CONFIG </h4> 
+#### ![](https://cdn.discordapp.com/attachments/513198459193655296/1006378640134643772/icon-golden16.png) MINHA CONFIG 
 
 <h5> FONTES </h5>
 
@@ -48,7 +48,7 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 <!-- —————— CONFIGURAÇÃO —————— -->
 
 <!-- —————— LINGUAGENS —————— -->
-<h4> 📍 LINGUAGENS </h4>
+#### ![](https://cdn.discordapp.com/attachments/513198459193655296/1006378640134643772/icon-golden16.png) LINGUAGENS 
 
 ![Python Logo](https://cdn.discordapp.com/attachments/569005079932305410/994056796803190844/python.png "Python")
 ![Shell Script Logo](https://cdn.discordapp.com/attachments/569005079932305410/994058299215462570/shellscript.png "Shell Script")
@@ -57,7 +57,7 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 
 
 <!-- —————— PROJETOS —————— -->
-<h4> 📍 PROJETOS </h4>
+#### ![](https://cdn.discordapp.com/attachments/513198459193655296/1006378640134643772/icon-golden16.png) PROJETOS 
 
 - ⏳ **Badges GitHub** ——— ( Emblemas para se usar no perfil do Github )
 - ⏳ **Akfetch** ——— ( Alternativa simples ao neofetch )
@@ -67,14 +67,14 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 
 
 <!-- —————— REDE —————— -->
-<h4> 📍 REDE </h4>
+#### ![](https://cdn.discordapp.com/attachments/513198459193655296/1006378640134643772/icon-golden16.png) REDE 
 
 ⏳ Sem nenhuma pronta no momento.
 
 <!-- —————— REDE —————— -->
 
 <!-- —————— ESTANTE —————— -->
-<h4> 📍 ESTANTE </h4>
+#### ![](https://cdn.discordapp.com/attachments/513198459193655296/1006378640134643772/icon-golden16.png) ESTANTE 
 
 | LIVRO | AUTOR | PÁGINAS | PROGRESSO | STATUS |
 | :---- | :---: | :-:| :-: | :-: |
