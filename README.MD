@@ -25,9 +25,11 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 <!-- —————— SOBRE MIM —————— -->
 #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) SOBRE MIM 
 
-Estou cursando **Análise e Desenvolvimento de Sistemas**; Tenho algumas certificações Linux ( **Linux 701 Fundamentals** & **Linux 702 Essentials**). No momento estou organizando e focando em criar projetos Open-Source. Sou muito perfeccionista e gosto de deixar as coisas mais detalhadas possível. ( Tem dúvida? Só olhar esse README XD )
+Estou cursando ![](https://cdn.discordapp.com/attachments/757631178193764474/1072989961403506770/graduation.png) **Análise e Desenvolvimento de Sistemas**; Tenho algumas certificações Linux:
+-  ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **Linux 701 Fundamentals**
+-  ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **Linux 702 Essentials**
 
-Atualmente não cheguei de fato a construir um "PROJETO", que possa levar o significado do nome em sua mais íntima essência.
+No momento estou organizando e focando em criar projetos Open-Source. Sou muito perfeccionista e gosto de deixar as coisas mais detalhadas possível. ( Tem dúvida? Só olhar esse README XD ). Atualmente não cheguei de fato a construir um "PROJETO", que possa levar o significado do nome em sua mais íntima essência.
 
 <!-- —————— SOBRE MIM —————— -->
 
@@ -77,12 +79,17 @@ Atualmente não cheguei de fato a construir um "PROJETO", que possa levar o sign
 <!-- —————— REDE —————— -->
 #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) REDE 
 
-
-
 ⏳ Carregando...
 
 <!-- —————— REDE —————— -->
 
+#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) CRÉDITOS
+
+Ícones que foram retirados do [Icons8](https://icons8.com.br/):
+
+![](https://cdn.discordapp.com/attachments/757631178193764474/1072989961403506770/graduation.png) ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png)
+
+Obs: O resto dos ícones que se encontram nesse repositório, foram feitos por mim usando o software OpenSource [Inkscape](https://inkscape.org/pt-br/).
 <!-- —————— ESTANTE —————— -->
 
 #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) ESTANTE 
