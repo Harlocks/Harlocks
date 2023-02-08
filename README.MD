@@ -29,9 +29,20 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 <!-- —————— SOBRE MIM —————— -->
 #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) SOBRE MIM 
 
-Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um vocabulário mais amplo e enriquecedor...)</em>
+Estou cursando **Análise e Desenvolvimento de Sistemas**; Tenho algumas certificações Linux ( **Linux 701 Fundamentals** & **Linux 702 Essentials**). No momento estou organizando e focando em criar projetos Open-Source. Sou muito perfeccionista e gosto de deixar as coisas mais detalhadas possível. ( Tem dúvida? Só olhar esse README XD )
+
+Atualmente não cheguei de fato a construir um "PROJETO", que possa levar o significado do nome em sua mais íntima essência.
 
 <!-- —————— SOBRE MIM —————— -->
+
+
+<!-- —————— LINGUAGENS —————— -->
+#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) STACKS 
+
+![Python Logo](https://cdn.discordapp.com/attachments/569005079932305410/994056796803190844/python.png "Python")
+![Shell Script Logo](https://cdn.discordapp.com/attachments/569005079932305410/994058299215462570/shellscript.png "Shell Script")
+
+<!-- —————— LINGUAGENS —————— -->
 
 <!-- —————— CONFIGURAÇÃO —————— -->
 #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) MINHA CONFIG 
@@ -40,30 +51,25 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 
  - 》 [Iosevka](https://github.com/be5invis/iosevka)</li>
  - 》 [Monaco](https://github.com/taodongl/monaco.ttf)</li>
+ - 》 [Cascadia Code](https://github.com/microsoft/cascadia-code)
  
-<h5> TEMAS/ÍCONES </h5>
+<h5> TEMAS/ÍCONES - VSCODE </h5>
  
 - 》 [Dobri Next -C04- Material](https://marketplace.visualstudio.com/items?itemName=sldobri.bunker)
 - 》 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- 》 [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+- 》 [Mac Icons](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-icons-mac)
 
 <h5> S.O</h5>
 
-- 》 Archcraft
+<!-- - 》 Archcraft ( Não estou mais utilizando)--> 
 - 》 Windows 10
-
+- 》 Linux Mint 
+- 》 Manjaro
 <!-- —————— CONFIGURAÇÃO —————— -->
 
-<!-- —————— LINGUAGENS —————— -->
-#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) LINGUAGENS 
-
-![Python Logo](https://cdn.discordapp.com/attachments/569005079932305410/994056796803190844/python.png "Python")
-![Shell Script Logo](https://cdn.discordapp.com/attachments/569005079932305410/994058299215462570/shellscript.png "Shell Script")
-
-<!-- —————— LINGUAGENS —————— -->
-
-
 <!-- —————— PROJETOS —————— -->
-#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) PROJETOS 
+#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) PROJETOS EM DESENVOLVIMENTO
 
 - ⏳ **Badges GitHub** ——— ( Emblemas para se usar no perfil do Github )
 - ⏳ **Akfetch** ——— ( Alternativa simples ao neofetch )
