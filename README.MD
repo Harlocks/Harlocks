@@ -10,8 +10,6 @@ Bem-aventurados os que sofrem perseguição por causa da justiça, porque deles 
 
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
 
-teste
-
 
 E a condenação é esta: Que a luz veio ao mundo, e os homens amaram mais as trevas do que a luz, porque as suas obras eram más.
 Porque todo aquele que faz o mal odeia a luz, e não vem para a luz, para que as suas obras não sejam reprovadas.
