@@ -1,7 +1,5 @@
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
 
-<!-- CO -->
-
 Decerto, a busca pela sabedoria tem dois caminhos: Buscar agradar unicamente em primeiro lugar Deus, e ser salvo. Ou... Agradar unicamente a humanidade, e ser um tolo, pecador, e perder a salvação. Cavalheiros e madames, eu escolho o primeiro caminho.
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
 
