@@ -1,13 +1,19 @@
-<hr>
-<em> Decerto, a busca pela sabedoria tem dois caminhos: Buscar agradar unicamente em primeiro lugar Deus, e ser salvo. Ou... Agradar unicamente a humanidade, e ser um tolo, pecador, e perder a salvação. Cavalheiros e madames, eu escolho o primeiro caminho. </em> </h4>
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
 
-<hr>
-<em> <!-- —————— Abrimento dos versículos —————— -->
+<!-- CO -->
+
+Decerto, a busca pela sabedoria tem dois caminhos: Buscar agradar unicamente em primeiro lugar Deus, e ser salvo. Ou... Agradar unicamente a humanidade, e ser um tolo, pecador, e perder a salvação. Cavalheiros e madames, eu escolho o primeiro caminho.
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
+
+<!-- —————— Abrimento dos versículos —————— -->
 
 Bem-aventurados os que sofrem perseguição por causa da justiça, porque deles é o reino dos céus;
 <strong> ——— ( Mateus 4:10 ) </strong>
 
-<hr>
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
+
+
+
 
 E a condenação é esta: Que a luz veio ao mundo, e os homens amaram mais as trevas do que a luz, porque as suas obras eram más.
 Porque todo aquele que faz o mal odeia a luz, e não vem para a luz, para que as suas obras não sejam reprovadas.
@@ -18,17 +24,17 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 
 </em> <!-- —————— Fechamento dos versículos —————— -->
 
-<hr>
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
 
 <!-- —————— SOBRE MIM —————— -->
-#### ![](https://cdn.discordapp.com/attachments/513198459193655296/1006378640134643772/icon-golden16.png) SOBRE MIM 
+#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) SOBRE MIM 
 
 Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um vocabulário mais amplo e enriquecedor...)</em>
 
 <!-- —————— SOBRE MIM —————— -->
 
 <!-- —————— CONFIGURAÇÃO —————— -->
-#### ![](https://cdn.discordapp.com/attachments/513198459193655296/1006378640134643772/icon-golden16.png) MINHA CONFIG 
+#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) MINHA CONFIG 
 
 <h5> FONTES </h5>
 
@@ -48,7 +54,7 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 <!-- —————— CONFIGURAÇÃO —————— -->
 
 <!-- —————— LINGUAGENS —————— -->
-#### ![](https://cdn.discordapp.com/attachments/513198459193655296/1006378640134643772/icon-golden16.png) LINGUAGENS 
+#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) LINGUAGENS 
 
 ![Python Logo](https://cdn.discordapp.com/attachments/569005079932305410/994056796803190844/python.png "Python")
 ![Shell Script Logo](https://cdn.discordapp.com/attachments/569005079932305410/994058299215462570/shellscript.png "Shell Script")
@@ -57,7 +63,7 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 
 
 <!-- —————— PROJETOS —————— -->
-#### ![](https://cdn.discordapp.com/attachments/513198459193655296/1006378640134643772/icon-golden16.png) PROJETOS 
+#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) PROJETOS 
 
 - ⏳ **Badges GitHub** ——— ( Emblemas para se usar no perfil do Github )
 - ⏳ **Akfetch** ——— ( Alternativa simples ao neofetch )
@@ -67,7 +73,7 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 
 
 <!-- —————— REDE —————— -->
-#### ![](https://cdn.discordapp.com/attachments/513198459193655296/1006378640134643772/icon-golden16.png) REDE 
+#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) REDE 
 
 
 
@@ -77,7 +83,7 @@ Ainda não possuo palavras suficiente para me expressar. <em>(Em busca de um voc
 
 <!-- —————— ESTANTE —————— -->
 
-#### ![](https://cdn.discordapp.com/attachments/513198459193655296/1006378640134643772/icon-golden16.png) ESTANTE 
+#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) ESTANTE 
 <details>
  <summary> CLIQUE PARA ABRIR A ESTANTE </summary>
 
