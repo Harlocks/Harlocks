@@ -45,25 +45,16 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 <!-- —————— CONFIGURAÇÃO —————— -->
 #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) MINHA CONFIG 
 
-<h5> FONTES </h5>
 
- - 》 [Iosevka](https://github.com/be5invis/iosevka)</li>
- - 》 [Monaco](https://github.com/taodongl/monaco.ttf)</li>
- - 》 [Cascadia Code](https://github.com/microsoft/cascadia-code)
- 
-<h5> TEMAS/ÍCONES - VSCODE </h5>
- 
-- 》 [Dobri Next -C04- Material](https://marketplace.visualstudio.com/items?itemName=sldobri.bunker)
-- 》 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- 》 [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
-- 》 [Mac Icons](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-icons-mac)
+| ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385000350761040/FONTES.png) | ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385861273604216/TEMAS.png) | ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385881527898203/SO.png) |
+| :-: | :-: | :-: |
+| [Iosevka](https://github.com/be5invis/iosevka)</li> | [Dobri Next -C04- Material](https://marketplace.visualstudio.com/items?itemName=sldobri.bunker) | Windows 10 |
+| [Monaco](https://github.com/taodongl/monaco.ttf)</li> | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Linux Mint |
+| [Cascadia Code](https://github.com/microsoft/cascadia-code) | [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) | Archcraft |
+| | [Mac Icons](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-icons-mac) | Manjaro | 
 
-<h5> S.O</h5>
 
-<!-- - 》 Archcraft ( Não estou mais utilizando)--> 
-- 》 Windows 10
-- 》 Linux Mint 
-- 》 Manjaro
+
 <!-- —————— CONFIGURAÇÃO —————— -->
 
 <!-- —————— PROJETOS —————— -->
