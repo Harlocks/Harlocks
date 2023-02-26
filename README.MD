@@ -35,8 +35,8 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) CERTIFICAÇÕES
 
--  ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **[ 4Linux 701 ] Linux Fundamentals**
--  ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **[ 4Linux 702 ] Linux Essentials**
+-  ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 701 ] Linux Fundamentals**
+-  ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 702 ] Linux Essentials**
 
 <!-- —————— CERTIFICAÇÕES —————— -->
 
