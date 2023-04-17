@@ -71,6 +71,7 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 - ⏳ **Badges GitHub** ——— ( Emblemas para se usar no perfil do Github )
 - ⏳ **Akfetch** ——— ( Alternativa simples ao neofetch )
 - ⏳ **Tint2Theme** ——— ( Tema feito por mim para a barra Tint2 )
+- ⏳ **Keypirinha | pt-BR** ——— ( Arquivos de configurações + Tradução)
 
 <!-- —————— PROJETOS —————— -->
 
