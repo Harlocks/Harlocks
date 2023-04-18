@@ -81,7 +81,7 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 <!-- —————— REDE —————— -->
 #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) REDE 
 
-⏳ Carregando...
+- ⏳ Linkedin...
 
 <!-- —————— REDE —————— -->
 
@@ -91,4 +91,8 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 ![](https://cdn.discordapp.com/attachments/757631178193764474/1072989961403506770/graduation.png) ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png)
 
-Obs: O resto dos ícones que se encontram nesse repositório, foram feitos por mim usando o software OpenSource [Inkscape](https://inkscape.org/pt-br/).
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
+<div align="center">
+O resto dos ícones que se encontram nesse repositório, foram feitos por mim usando o software OpenSource <a href="https://inkscape.org/pt-br/">Inkscape</a>
+</div>
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
