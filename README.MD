@@ -71,9 +71,9 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) PROJETOS EM DESENVOLVIMENTO
 
 - ⏳ **Badges GitHub** ——— ( Emblemas para se usar no perfil do Github )
-- ⏳ **Akfetch** ——— ( Alternativa simples ao neofetch )
+- ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— ( Alternativa simples ao neofetch )
 - ⏳ **Tint2Theme** ——— ( Tema feito por mim para a barra Tint2 )
-- ⏳ **Keypirinha | pt-BR** ——— ( Arquivos de configurações + Tradução)
+- ⏳ [**Keypirinha**](https://github.com/Harlocks/keypirinha) | pt-BR** ——— ( Arquivos de configurações + Tradução)
 
 <!-- —————— PROJETOS —————— -->
 
