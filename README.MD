@@ -3,6 +3,7 @@
 <!-- Decerto, a busca pela sabedoria tem dois caminhos: Buscar agradar unicamente em primeiro lugar Deus, e ser salvo. Ou... Agradar unicamente a humanidade, e ser um tolo, pecador, e perder a salvação. Cavalheiros e madames, eu escolho o primeiro caminho. -->
 
 Na busca pela sabedoria, a verdade e o conhecimento divino, há o surgimento de dois caminhos: Buscar agradar a Deus ou agradar a humanidade. Em qualquer atitude que você tomar na vida, você deve se perguntar: "Deus gosta desse pensamento?", e não se as pessoas ao seu redor vão gostar dele. Defenda a verdade, mesmo que isso lhe traga uma solidão infindável [...]
+
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
 <!-- —————— Abrimento dos versículos —————— -->
 
