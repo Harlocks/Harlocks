@@ -78,7 +78,7 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 - ⏳ **Badges GitHub** ——— ( Emblemas para se usar no perfil do Github )
 - ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— ( Alternativa simples ao neofetch )
 - ⏳ **Tint2Theme** ——— ( Tema feito por mim para a barra Tint2 )
-- ⏳ [**Keypirinha**](https://github.com/Harlocks/keypirinha) | pt-BR** ——— ( Arquivos de configurações + Tradução)
+- ⏳ [**Keypirinha | pt-BR**](https://github.com/Harlocks/keypirinha)  ——— ( Arquivos de configurações + Tradução)
 
 <!-- —————— PROJETOS —————— -->
 
