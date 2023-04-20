@@ -23,7 +23,7 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 
 <!-- —————— SOBRE MIM —————— -->
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) SOBRE MIM  -->
-<br>
+
 <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/sobremim28px.png">
 
 
