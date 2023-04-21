@@ -19,7 +19,7 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 
 </em> <!-- —————— Fechamento dos versículos —————— -->
 
-<img width="" src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/sobremim28pxWithOutShadow.png'>
+<img width="" src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/novoSobreMim27px.png'>
 
 <!-- —————— SOBRE MIM —————— -->
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) SOBRE MIM  -->
@@ -37,7 +37,7 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 <!-- —————— CERTIFICAÇÕES —————— -->
 
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) CERTIFICAÇÕES -->
-<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Certificacoes28PxWithOutShadow.png">
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/novoCertificados27px.png">
 <!-- <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/certificacoes28px.png"> -->
 
 -  ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 701 ] Linux Fundamentals**
@@ -49,18 +49,19 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 <!-- —————— CERTIFICAÇÕES —————— -->
 
 
-<!-- —————— LINGUAGENS —————— -->
-<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/stacks28pxWithOutShadow.png">
+<!-- —————— STACKS —————— -->
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/novoStacks27px.png">
 
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) STACKS  -->
 
 ![Python Logo](https://cdn.discordapp.com/attachments/569005079932305410/994056796803190844/python.png "Python")
 ![Shell Script Logo](https://cdn.discordapp.com/attachments/569005079932305410/994058299215462570/shellscript.png "Shell Script")
 
-<!-- —————— LINGUAGENS —————— -->
+<!-- —————— STACKS —————— -->
 
 <!-- —————— CONFIGURAÇÃO —————— -->
-#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) MINHA CONFIG 
+<!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) MINHA CONFIG  -->
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/novoConfig27px.png">
 
 
 | ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385000350761040/FONTES.png) | ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385861273604216/TEMAS.png) | ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385881527898203/SO.png) |
@@ -75,7 +76,9 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 <!-- —————— CONFIGURAÇÃO —————— -->
 
 <!-- —————— PROJETOS —————— -->
-#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) PROJETOS EM DESENVOLVIMENTO
+<!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) PROJETOS EM DESENVOLVIMENTO -->
+
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/novoProjetos27px.png">
 
 - ⏳ **Badges GitHub** ——— ( Emblemas para se usar no perfil do Github )
 - ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— ( Alternativa simples ao neofetch )
@@ -86,7 +89,9 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 
 <!-- —————— REDE —————— -->
-#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) REDE 
+<!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) REDE  -->
+
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/novoRede27px.png">
 
 - ⏳ Linkedin...
 
