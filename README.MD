@@ -19,12 +19,12 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 
 </em> <!-- —————— Fechamento dos versículos —————— -->
 
-<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
+<img width="" src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/sobremim28pxWithShadow.png'>
 
 <!-- —————— SOBRE MIM —————— -->
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) SOBRE MIM  -->
-
-<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/sobremim28px.png">
+<!-- 
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/sobremim28px.png"> -->
 
 
 
@@ -37,8 +37,8 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 <!-- —————— CERTIFICAÇÕES —————— -->
 
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) CERTIFICAÇÕES -->
-
-<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/certificacoes28px.png">
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Certificacoes28PxWithShadow.png">
+<!-- <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/certificacoes28px.png"> -->
 
 -  ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 701 ] Linux Fundamentals**
 -  ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 702 ] Linux Essentials**
@@ -50,7 +50,9 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 
 <!-- —————— LINGUAGENS —————— -->
-#### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) STACKS 
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/stacks28pxWithShadow.png">
+
+<!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) STACKS  -->
 
 ![Python Logo](https://cdn.discordapp.com/attachments/569005079932305410/994056796803190844/python.png "Python")
 ![Shell Script Logo](https://cdn.discordapp.com/attachments/569005079932305410/994058299215462570/shellscript.png "Shell Script")
