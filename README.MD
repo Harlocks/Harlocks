@@ -19,7 +19,7 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 
 </em> <!-- —————— Fechamento dos versículos —————— -->
 
-<img width="" src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/sobremim28pxWithShadow.png'>
+<img width="" src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/sobremim28pxWithOutShadow.png'>
 
 <!-- —————— SOBRE MIM —————— -->
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) SOBRE MIM  -->
@@ -37,7 +37,7 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 <!-- —————— CERTIFICAÇÕES —————— -->
 
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) CERTIFICAÇÕES -->
-<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Certificacoes28PxWithShadow.png">
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Certificacoes28PxWithOutShadow.png">
 <!-- <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/certificacoes28px.png"> -->
 
 -  ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 701 ] Linux Fundamentals**
@@ -50,7 +50,7 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 
 <!-- —————— LINGUAGENS —————— -->
-<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/stacks28pxWithShadow.png">
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/stacks28pxWithOutShadow.png">
 
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) STACKS  -->
 
