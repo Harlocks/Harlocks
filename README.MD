@@ -16,6 +16,7 @@ E a condenação é esta: Que a luz veio ao mundo, e os homens amaram mais as tr
 Porque todo aquele que faz o mal odeia a luz, e não vem para a luz, para que as suas obras não sejam reprovadas.
 Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam manifestas, porque são feitas em Deus.
 <strong> ——— ( João 3:19-21 ) </strong>
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
 
 </em> <!-- —————— Fechamento dos versículos —————— -->
 
