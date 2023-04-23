@@ -98,6 +98,12 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 <!-- —————— REDE —————— -->
 
+<!-- REPOSITÓRIOS (ABRIMENTO) -->
+
+
+
+<!-- REPOSITÓRIOS (FECHAMENTO) -->
+
 #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) CRÉDITOS
 
 Ícones que foram retirados do [Icons8](https://icons8.com.br/):
