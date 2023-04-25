@@ -20,7 +20,7 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 
 </em> <!-- —————— Fechamento dos versículos —————— -->
 
-<img width="" src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/FixSobremim24pxWithShadow.png'>
+<img width="" src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/SobreMim28pxV2.png">
 
 <!-- —————— SOBRE MIM —————— -->
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) SOBRE MIM  -->
@@ -38,7 +38,7 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 <!-- —————— CERTIFICAÇÕES —————— -->
 
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) CERTIFICAÇÕES -->
-<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/FIXcertificados24pxWithShadow.png">
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Certificados28pxV2.png">
 <!-- <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/certificacoes28px.png"> -->
 
 -  ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 701 ] Linux Fundamentals**
@@ -51,7 +51,7 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 
 <!-- —————— STACKS —————— -->
-<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/FIXstacks24pxWithShadow.png">
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Stacks28pxV2.png">
 
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) STACKS  -->
 
@@ -60,9 +60,29 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 <!-- —————— STACKS —————— -->
 
+<!-- —————— PROJETOS —————— -->
+<!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) PROJETOS EM DESENVOLVIMENTO -->
+
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Projetos28pxV2.png">
+
+- ⏳ **Badges GitHub** ——— ( Emblemas para se usar no perfil do Github )
+- ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— ( Alternativa simples ao neofetch )
+- ⏳ **Tint2Theme** ——— ( Tema feito por mim para a barra Tint2 )
+- ⏳ [**Keypirinha | pt-BR**](https://github.com/Harlocks/keypirinha)  ——— ( Arquivos de configurações + Tradução)
+
+<!-- —————— PROJETOS —————— -->
+
+<!-- REPOSITÓRIOS (ABRIMENTO) -->
+
+<img src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Repositorios28pxV2.png'>
+
+- Carregando...
+
+<!-- REPOSITÓRIOS (FECHAMENTO) -->
+
 <!-- —————— CONFIGURAÇÃO —————— -->
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) MINHA CONFIG  -->
-<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/FIXconfig24pxWithShadow.png">
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/MinhaConfig28pxV2.png">
 
 
 | ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385000350761040/FONTES.png) | ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385861273604216/TEMAS.png) | ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385881527898203/SO.png) |
@@ -73,36 +93,17 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 | | [Mac Icons](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-icons-mac) | Manjaro | 
 
 
-
 <!-- —————— CONFIGURAÇÃO —————— -->
-
-<!-- —————— PROJETOS —————— -->
-<!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) PROJETOS EM DESENVOLVIMENTO -->
-
-<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/FIXprojetos24pxWithShadow.png">
-
-- ⏳ **Badges GitHub** ——— ( Emblemas para se usar no perfil do Github )
-- ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— ( Alternativa simples ao neofetch )
-- ⏳ **Tint2Theme** ——— ( Tema feito por mim para a barra Tint2 )
-- ⏳ [**Keypirinha | pt-BR**](https://github.com/Harlocks/keypirinha)  ——— ( Arquivos de configurações + Tradução)
-
-<!-- —————— PROJETOS —————— -->
 
 
 <!-- —————— REDE —————— -->
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) REDE  -->
 
-<img src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/FIXrede24pxWithShadow.png'>
+<img src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Rede28pxV2.png'>
 
 - ⏳ Linkedin...
 
 <!-- —————— REDE —————— -->
-
-<!-- REPOSITÓRIOS (ABRIMENTO) -->
-
-
-
-<!-- REPOSITÓRIOS (FECHAMENTO) -->
 
 #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) CRÉDITOS
 
