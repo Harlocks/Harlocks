@@ -102,7 +102,7 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 <img src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Rede28pxV2.png'>
 
-<img width="32" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png"/>
+<a href="https://www.linkedin.com/in/erickrobert/"><img width="32" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png"/></a>
 
 <!-- —————— REDE —————— -->
 
