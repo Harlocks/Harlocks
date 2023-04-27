@@ -102,7 +102,7 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 <img src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Rede28pxV2.png'>
 
-<a href="https://www.linkedin.com/in/erickrobert/"><img width="32" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/erickrobert/"><img width="42" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png"/></a>
 
 <!-- —————— REDE —————— -->
 
@@ -111,6 +111,7 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 Ícones que foram retirados do [Icons8](https://icons8.com.br/):
 
 ![](https://cdn.discordapp.com/attachments/757631178193764474/1072989961403506770/graduation.png) ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png)
+<img width="16" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png"/>
 
 
 <div align="center">
