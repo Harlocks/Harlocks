@@ -97,13 +97,12 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 <!-- —————— CONFIGURAÇÃO —————— -->
 
-
 <!-- —————— REDE —————— -->
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) REDE  -->
 
 <img src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Rede28pxV2.png'>
 
-- ⏳ Linkedin...
+<img width="32" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png"/>
 
 <!-- —————— REDE —————— -->
 
