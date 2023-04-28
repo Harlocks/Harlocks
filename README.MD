@@ -109,7 +109,6 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) CRÉDITOS
 
 Ícones que foram retirados do [Icons8](https://icons8.com.br/):
-
 <img width="16" src="https://cdn.discordapp.com/attachments/757631178193764474/1072989961403506770/graduation.png">
 <img width="16" src="https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png">
 <img width="16" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png">
