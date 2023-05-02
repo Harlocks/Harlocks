@@ -78,7 +78,7 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 <div align="center">
     <a href="https://github.com/Harlocks/keypirinha"><img width="150" src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/keypirinhaRepo.png">
-    <a><img width="150" src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/design.png"></a>
+    <a href="https://github.com/Harlocks/design"><img width="150" src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/designv4.png"></a>
 </div>
 
 <!-- REPOSITÓRIOS (FECHAMENTO) -->
