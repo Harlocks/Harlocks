@@ -121,5 +121,6 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 <div align="center">
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
 O resto dos ícones que se encontram nesse repositório, foram feitos por mim usando o software OpenSource <a href="https://inkscape.org/pt-br/">Inkscape</a>
+        <q>Prezo pela linha mais perto da autenticidade, pois é ela que move a inovação</q>
 </div>
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
