@@ -24,10 +24,8 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 
 <!-- —————— SOBRE MIM —————— -->
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) SOBRE MIM  -->
-<!-- 
+<!--
 <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/sobremim28px.png"> -->
-
-
 
 Cursando ![](https://cdn.discordapp.com/attachments/757631178193764474/1072989961403506770/graduation.png) **Análise e Desenvolvimento de Sistemas**.
 
@@ -41,14 +39,12 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Certificados28pxV2.png">
 <!-- <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/certificacoes28px.png"> -->
 
--  ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 701 ] Linux Fundamentals**
--  ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 702 ] Linux Essentials**
--  ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 538 ] Containers Fundamentals**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 701 ] Linux Fundamentals**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 702 ] Linux Essentials**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 538 ] Containers Fundamentals**
 - <a href="https://github.com/Harlocks/certificates/blob/main/certificates/Dio%20-%20Primeiros%20passos%20com%20Git%20e%20Github.pdf"><img width="12" src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/buttons/icon-open24x.png"></a> **Dio - Primeiros passos com Git e Github**
 
-
 <!-- —————— CERTIFICAÇÕES —————— -->
-
 
 <!-- —————— STACKS —————— -->
 <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Stacks28pxV2.png">
@@ -68,7 +64,7 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 - ⏳ **Badges GitHub** ——— ( Emblemas para se usar no perfil do Github )
 - ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— ( Alternativa simples ao neofetch )
 - ⏳ **Tint2Theme** ——— ( Tema feito por mim para a barra Tint2 )
-- ⏳ [**Keypirinha | pt-BR**](https://github.com/Harlocks/keypirinha)  ——— ( Arquivos de configurações + Tradução)
+- ⏳ [**Keypirinha | pt-BR**](https://github.com/Harlocks/keypirinha) ——— ( Arquivos de configurações + Tradução)
 
 <!-- —————— PROJETOS —————— -->
 
@@ -88,14 +84,12 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) MINHA CONFIG  -->
 <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/MinhaConfig28pxV2.png">
 
-
-| ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385000350761040/FONTES.png) | ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385861273604216/TEMAS.png) | ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385881527898203/SO.png) |
-| :-: | :-: | :-: |
-| [Iosevka](https://github.com/be5invis/iosevka)</li> | [Dobri Next -C04- Material](https://marketplace.visualstudio.com/items?itemName=sldobri.bunker) | Windows 10 |
-| [Monaco](https://github.com/taodongl/monaco.ttf)</li> | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Linux Mint |
-| [Cascadia Code](https://github.com/microsoft/cascadia-code) | [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) | Archcraft |
-| | [Mac Icons](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-icons-mac) | Manjaro | 
-
+| ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385000350761040/FONTES.png) |     ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385861273604216/TEMAS.png)     | ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385881527898203/SO.png) |
+| :-------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+|                      [Iosevka](https://github.com/be5invis/iosevka)</li>                      |   [Dobri Next -C04- Material](https://marketplace.visualstudio.com/items?itemName=sldobri.bunker)    |                                        Windows 10                                         |
+|                     [Monaco](https://github.com/taodongl/monaco.ttf)</li>                     | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) |                                        Linux Mint                                         |
+|                  [Cascadia Code](https://github.com/microsoft/cascadia-code)                  |                [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)                |                                         Archcraft                                         |
+|                                                                                               |       [Mac Icons](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-icons-mac)        |                                          Manjaro                                          |
 
 <!-- —————— CONFIGURAÇÃO —————— -->
 
@@ -117,10 +111,10 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 <img width="16" src="https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png">
 <img width="16" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png">
 
-
 <div align="center">
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
-O resto dos ícones que se encontram nesse repositório, foram feitos por mim usando o software OpenSource <a href="https://inkscape.org/pt-br/">Inkscape</a>
-        <q>Prezo pela linha mais perto da autenticidade, pois é ela que move a inovação</q>
+O design, estrutura e artes nesse repositório, foram feitas por mim usando o software OpenSource <a href="https://inkscape.org/pt-br/">Inkscape</a>
+<br>
+<q><em>Prezo pela linha mais perto da autenticidade, pois é ela que move a inovação. </em></q>
 </div>
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
