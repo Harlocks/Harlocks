@@ -118,5 +118,3 @@ O design, estrutura e artes nesse repositório, foram feitas por mim usando o so
 <q><em>Prezo pela linha mais perto da autenticidade, pois é ela que move a inovação. </em></q>
 </div>
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
-
-++++++++++teste
