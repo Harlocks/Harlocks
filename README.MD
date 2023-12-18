@@ -2,7 +2,7 @@
 
 <!-- Decerto, a busca pela sabedoria tem dois caminhos: Buscar agradar unicamente em primeiro lugar Deus, e ser salvo. Ou... Agradar unicamente a humanidade, e ser um tolo, pecador, e perder a salvação. Cavalheiros e madames, eu escolho o primeiro caminho. -->
 
-Na busca pela sabedoria, a verdade e o conhecimento divino, há o surgimento de dois caminhos: Buscar agradar a Deus ou agradar a humanidade. Em qualquer atitude que você tomar na vida, você deve se perguntar: "Deus gosta desse pensamento?", e não se as pessoas ao seu redor vão gostar dele. Defenda a verdade, mesmo que isso lhe traga uma solidão infindável [...]
+Na busca pela sabedoria, verdade e conhecimento divino, surgem dois caminhos: agradar a Deus ou agradar à humanidade. Em qualquer atitude que você tomar na vida, deve perguntar-se: 'Deus aprova esse pensamento?' e não se as pessoas ao seu redor vão gostar dele. Defenda a verdade, mesmo que isso lhe traga uma solidão infindável. [...]
 
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
 <!-- —————— Versículos (ABERTURA) —————— -->
@@ -29,7 +29,7 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 
 Cursando ![](https://cdn.discordapp.com/attachments/757631178193764474/1072989961403506770/graduation.png) **Análise e Desenvolvimento de Sistemas**.
 
-No momento estou organizando e focando em criar projetos Open-Source. Sou muito perfeccionista e gosto de deixar as coisas mais detalhadas possível. ( Tem dúvida? Só olhar esse README XD ). Atualmente não cheguei de fato a construir um "PROJETO", que possa levar o significado do nome em sua mais íntima essência.
+No momento, estou organizando e focando em criar projetos Open Source. Sou muito perfeccionista e gosto de deixar as coisas o mais detalhadas possível (tem dúvidas? Só olhar este README XD). Até agora, não cheguei efetivamente a construir um "PROJETO" que possa transmitir o significado do nome em sua mais íntima essência..
 
 <!-- —————— SOBRE MIM (FECHAMENTO) —————— -->
 
@@ -61,9 +61,9 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Projetos28pxV2.png">
 
-- ⏳ **Badges GitHub** ——— (Emblemas para se usar no perfil do Github)
-- ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— (Alternativa simples ao neofetch)
-- ⏳ **Tint2Theme** ——— (Tema feito por mim para a barra Tint2)
+- ⏳ **Badges GitHub** ——— (Emblemas para usar no perfil do Github)
+- ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— (Alternativa simples ao Neofetch)
+- ⏳ **Tint2Theme** ——— (Tema criado por mim para a barra Tint2)
 - ⏳ [**Keypirinha | pt-BR**](https://github.com/Harlocks/keypirinha) ——— (Arquivos de configurações + Tradução)
  
 <!-- —————— PROJETOS (FECHAMENTO) —————— -->
@@ -113,7 +113,7 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 <div align="center">
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
-O design, estrutura e artes nesse repositório, foram feitas por mim usando o software OpenSource <a href="https://inkscape.org/pt-br/">Inkscape</a>
+O design, estrutura e artes neste repositório foram criados por mim usando o software OpenSource <a href="https://inkscape.org/pt-br/">Inkscape</a>
 <br>
 <q><em>Prezo pela linha mais perto da autenticidade, pois é ela que move a inovação. </em></q>
 </div>
