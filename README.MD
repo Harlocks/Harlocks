@@ -5,7 +5,7 @@
 Na busca pela sabedoria, a verdade e o conhecimento divino, há o surgimento de dois caminhos: Buscar agradar a Deus ou agradar a humanidade. Em qualquer atitude que você tomar na vida, você deve se perguntar: "Deus gosta desse pensamento?", e não se as pessoas ao seu redor vão gostar dele. Defenda a verdade, mesmo que isso lhe traga uma solidão infindável [...]
 
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
-<!-- —————— Abrimento dos versículos —————— -->
+<!-- —————— Versículos (ABERTURA) —————— -->
 
 Bem-aventurados os que sofrem perseguição por causa da justiça, porque deles é o reino dos céus;
 <strong> ——— ( Mateus 4:10 ) </strong>
@@ -18,11 +18,11 @@ Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam mani
 <strong> ——— ( João 3:19-21 ) </strong>
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
 
-</em> <!-- —————— Fechamento dos versículos —————— -->
+</em> <!-- —————— Versículos (FECHAMENTO) —————— -->
 
 <img width="" src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/SobreMim28pxV2.png">
 
-<!-- —————— SOBRE MIM —————— -->
+<!-- —————— SOBRE MIM (ABERTURA) —————— -->
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) SOBRE MIM  -->
 <!--
 <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/sobremim28px.png"> -->
@@ -31,9 +31,9 @@ Cursando ![](https://cdn.discordapp.com/attachments/757631178193764474/107298996
 
 No momento estou organizando e focando em criar projetos Open-Source. Sou muito perfeccionista e gosto de deixar as coisas mais detalhadas possível. ( Tem dúvida? Só olhar esse README XD ). Atualmente não cheguei de fato a construir um "PROJETO", que possa levar o significado do nome em sua mais íntima essência.
 
-<!-- —————— SOBRE MIM —————— -->
+<!-- —————— SOBRE MIM (FECHAMENTO) —————— -->
 
-<!-- —————— CERTIFICAÇÕES —————— -->
+<!-- —————— CERTIFICAÇÕES (ABERTURA) —————— -->
 
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) CERTIFICAÇÕES -->
 <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Certificados28pxV2.png">
@@ -44,9 +44,9 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 - ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 538 ] Containers Fundamentals**
 - <a href="https://github.com/Harlocks/certificates/blob/main/certificates/Dio%20-%20Primeiros%20passos%20com%20Git%20e%20Github.pdf"><img width="12" src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/buttons/icon-open24x.png"></a> **Dio - Primeiros passos com Git e Github**
 
-<!-- —————— CERTIFICAÇÕES —————— -->
+<!-- —————— CERTIFICAÇÕES (FECHAMENTO) —————— -->
 
-<!-- —————— STACKS —————— -->
+<!-- —————— STACKS (ABERTURA) —————— -->
 <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Stacks28pxV2.png">
 
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) STACKS  -->
@@ -54,21 +54,21 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 ![Python Logo](https://cdn.discordapp.com/attachments/569005079932305410/994056796803190844/python.png "Python")
 ![Shell Script Logo](https://cdn.discordapp.com/attachments/569005079932305410/994058299215462570/shellscript.png "Shell Script")
 
-<!-- —————— STACKS —————— -->
+<!-- —————— STACKS (FECHAMENTO) —————— -->
 
-<!-- —————— PROJETOS —————— -->
+<!-- —————— PROJETOS (ABERTURA) —————— -->
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) PROJETOS EM DESENVOLVIMENTO -->
 
 <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Projetos28pxV2.png">
 
-- ⏳ **Badges GitHub** ——— ( Emblemas para se usar no perfil do Github )
-- ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— ( Alternativa simples ao neofetch )
-- ⏳ **Tint2Theme** ——— ( Tema feito por mim para a barra Tint2 )
-- ⏳ [**Keypirinha | pt-BR**](https://github.com/Harlocks/keypirinha) ——— ( Arquivos de configurações + Tradução)
+- ⏳ **Badges GitHub** ——— (Emblemas para se usar no perfil do Github)
+- ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— (Alternativa simples ao neofetch)
+- ⏳ **Tint2Theme** ——— (Tema feito por mim para a barra Tint2)
+- ⏳ [**Keypirinha | pt-BR**](https://github.com/Harlocks/keypirinha) ——— (Arquivos de configurações + Tradução)
+ 
+<!-- —————— PROJETOS (FECHAMENTO) —————— -->
 
-<!-- —————— PROJETOS —————— -->
-
-<!-- REPOSITÓRIOS (ABRIMENTO) -->
+<!-- REPOSITÓRIOS (ABERTURA) -->
 
 <a href="https://github.com/Harlocks?tab=repositories"><img src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Repositorios28pxV2.png'></a>
 
@@ -80,27 +80,27 @@ No momento estou organizando e focando em criar projetos Open-Source. Sou muito 
 
 <!-- REPOSITÓRIOS (FECHAMENTO) -->
 
-<!-- —————— CONFIGURAÇÃO —————— -->
+<!-- —————— CONFIGURAÇÃO (ABERTURA) —————— -->
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) MINHA CONFIG  -->
 <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/MinhaConfig28pxV2.png">
 
 | ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385000350761040/FONTES.png) |     ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385861273604216/TEMAS.png)     | ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385881527898203/SO.png) |
 | :-------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 |                      [Iosevka](https://github.com/be5invis/iosevka)</li>                      |   [Dobri Next -C04- Material](https://marketplace.visualstudio.com/items?itemName=sldobri.bunker)    |                                        Windows 10                                         |
-|                     [Monaco](https://github.com/taodongl/monaco.ttf)</li>                     | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) |                                        Linux Mint                                         |
-|                  [Cascadia Code](https://github.com/microsoft/cascadia-code)                  |                [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)                |                                         Archcraft                                         |
-|                                                                                               |       [Mac Icons](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-icons-mac)        |                                          Manjaro                                          |
+|                     [Monaco](https://github.com/taodongl/monaco.ttf)</li>                     | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) |                                        Arch + KDE                                         |
+|                  [Cascadia Code](https://github.com/microsoft/cascadia-code)                  |                [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)                |                                         Linux Mint                                         |
+|             [Victor Mono](https://rubjo.github.io/victor-mono/)                                                                      |       [Mac Icons](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-icons-mac)        |                                          MacOS (Ventura)                                          |
+| 
+<!-- —————— CONFIGURAÇÃO (FECHAMENTO) —————— -->
 
-<!-- —————— CONFIGURAÇÃO —————— -->
-
-<!-- —————— REDE —————— -->
+<!-- —————— REDE (ABERTURA) —————— -->
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) REDE  -->
 
 <img src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Rede28pxV2.png'>
 
 <a href="https://www.linkedin.com/in/erickrobert/"><img width="42" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png"/></a>
 
-<!-- —————— REDE —————— -->
+<!-- —————— REDE (FECHAMENTO) —————— -->
 
 <!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) CRÉDITOS -->
 
