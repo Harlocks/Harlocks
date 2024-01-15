@@ -43,7 +43,7 @@ No momento, estou organizando e focando em criar projetos Open Source. Sou muito
 - ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 701 ] Linux Fundamentals**
 - ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 702 ] Linux Essentials**
 - ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux [ 538 ] Containers Fundamentals**
-- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **SQL - Do Básico ao Avançado**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **SQL - MySQL do Básico ao Avançado**
 - <a href="https://github.com/Harlocks/certificates/blob/main/certificates/Dio%20-%20Primeiros%20passos%20com%20Git%20e%20Github.pdf"><img width="12" src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/buttons/icon-open24x.png"></a> **Dio - Primeiros passos com Git e Github**
 
 <!-- —————— CERTIFICAÇÕES (FECHAMENTO) —————— -->
