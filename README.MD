@@ -91,8 +91,8 @@ No momento, estou organizando e focando em criar projetos Open Source. Sou muito
 |                      [Iosevka](https://github.com/be5invis/iosevka)</li>                      |   [Dobri Next -C04- Material](https://marketplace.visualstudio.com/items?itemName=sldobri.bunker)    |                                        Windows 10                                         |
 |                     [Monaco](https://github.com/taodongl/monaco.ttf)</li>                     | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) |                                        Arch + KDE                                         |
 |                  [Cascadia Code](https://github.com/microsoft/cascadia-code)                  |                [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)                |                                         Linux Mint                                         |
-|             [Victor Mono](https://rubjo.github.io/victor-mono/)                                                                      |       [Mac Icons](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-icons-mac)        |                                          MacOS (Ventura)                                          |
-
+|             [Victor Mono](https://rubjo.github.io/victor-mono/)                                                                      |       [Mac Icons](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-icons-mac)        |                                          Ultramarine OS                                        |
+| Dank Mono | Moxer Icons + Min Theme | MacOS (Sonoma) |
 <!-- —————— CONFIGURAÇÃO (FECHAMENTO) —————— -->
 
 <!-- —————— REDE (ABERTURA) —————— -->
