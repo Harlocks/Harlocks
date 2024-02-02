@@ -80,8 +80,6 @@ No momento, estou organizando e focando em criar projetos Open Source. Sou muito
     <a href="https://github.com/Harlocks/certificates"><img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/certificadosv6.png"></a>
 </div>
 
-![](https://img.shields.io/github/stars/harlocks?style=flat-square&logo=esea&logoColor=77dd77&label=MY%20STARS&labelColor=222&color=ffea61)
-
 <!-- REPOSITÓRIOS (FECHAMENTO) -->
 
 <!-- —————— CONFIGURAÇÃO (ABERTURA) —————— -->
