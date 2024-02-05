@@ -8,7 +8,7 @@ Na busca pela sabedoria, verdade e conhecimento divino, surgem dois caminhos: ag
 <!-- —————— Versículos (ABERTURA) —————— -->
 
 Bem-aventurados os que sofrem perseguição por causa da justiça, porque deles é o reino dos céus;
-<strong> ——— ( Mateus 4:10 ) </strong>
+<strong> ——— ( Mateus 5:10 ) </strong>
 
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
 
