@@ -16,7 +16,7 @@ E a condenação é esta: Que a luz veio ao mundo, e os homens amaram mais as tr
 Porque todo aquele que faz o mal odeia a luz, e não vem para a luz, para que as suas obras não sejam reprovadas.
 Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam manifestas, porque são feitas em Deus.
 <strong> ——— ( João 3:19-21 ) </strong>
-<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png'>
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=65ea14c9&is=65d79fc9&hm=e9cef3e324047139f1c3378773cc49bfc0bb540e7f3895e4ecef99768429bd04&'>
 
 </em> <!-- —————— Versículos (FECHAMENTO) —————— -->
 
@@ -39,11 +39,12 @@ No momento, estou organizando e focando em criar projetos Open Source. Sou muito
 <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Certificados28pxV2.png">
 <!-- <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/certificacoes28px.png"> -->
 
-- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **Fundamentos da Programação**
-- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux - 701 - Linux Fundamentals**
-- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux - 702 - Linux Essentials**
-- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **4Linux - 538 - Containers Fundamentals**
-- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png) **SQL - MySQL do Básico ao Avançado**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png?ex=65e8de36&is=65d66936&hm=4c089b125a00e9caa59c34f5b462f4ceb10870706721dd9a9a625b1aff28df04&) **Fundamentos da Programação**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png?ex=65e8de36&is=65d66936&hm=4c089b125a00e9caa59c34f5b462f4ceb10870706721dd9a9a625b1aff28df04&) **4Linux - 701 - Linux Fundamentals**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png?ex=65e8de36&is=65d66936&hm=4c089b125a00e9caa59c34f5b462f4ceb10870706721dd9a9a625b1aff28df04&) **4Linux - 702 - Linux Essentials**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png?ex=65e8de36&is=65d66936&hm=4c089b125a00e9caa59c34f5b462f4ceb10870706721dd9a9a625b1aff28df04&) **4Linux - 538 - Containers Fundamentals**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png?ex=65e8de36&is=65d66936&hm=4c089b125a00e9caa59c34f5b462f4ceb10870706721dd9a9a625b1aff28df04&) **SQL - MySQL do Básico ao Avançado**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png?ex=65e8de36&is=65d66936&hm=4c089b125a00e9caa59c34f5b462f4ceb10870706721dd9a9a625b1aff28df04&) **Docker para Desenvolvedores (com Docker Swarm e Kubernetes)**
 - <a href="https://github.com/Harlocks/certificates/blob/main/certificates/Dio%20-%20Primeiros%20passos%20com%20Git%20e%20Github.pdf"><img width="12" src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/buttons/icon-open24x.png"></a> **Dio - Primeiros passos com Git e Github**
 
 <!-- —————— CERTIFICAÇÕES (FECHAMENTO) —————— -->
