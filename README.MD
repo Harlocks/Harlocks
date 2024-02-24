@@ -109,8 +109,8 @@ No momento, estou organizando e focando em criar projetos Open Source. Sou muito
 <img src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Creditos28pxV3.png'>
 
 Ícones que foram retirados do [Icons8](https://icons8.com.br/):
-<img width="16" src="https://cdn.discordapp.com/attachments/757631178193764474/1072989961403506770/graduation.png">
-<img width="16" src="https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png">
+<img width="16" src="https://cdn.discordapp.com/attachments/757631178193764474/1072989961403506770/graduation.png?ex=65e8ddc5&is=65d668c5&hm=8ed8bb9e9456c4f0c3c302f705dde760b1acd466751f5fbc766f874e32b16e1c&">
+<img width="16" src="https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png?ex=65e8de36&is=65d66936&hm=4c089b125a00e9caa59c34f5b462f4ceb10870706721dd9a9a625b1aff28df04&">
 <img width="16" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png">
 
 <div align="center">
