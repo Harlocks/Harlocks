@@ -2,7 +2,7 @@
 
 <div align="right">
     <h3>🔷 Advocate (INFJ-A)</h3>
-    <h4>🔶 Diplomat - <a href="https://www.16personalities.com/profiles/b09e726debf10">Check My Profile</a></h4>
+    <h4>🔶 Diplomat - <a href="https://www.16personalities.com/profiles/b09e726debf10" target"_blank">Check My Profile</a></h4>
 </div>
 
 <div align="left">
