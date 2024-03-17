@@ -12,7 +12,7 @@
             Estou em constante evolução, agora focando no desenvolvimento front-end, estudando JavaScript,
             TypeScript, React e Angular. Determinado a contribuir como Analista para o desenvolvimento
             de sistemas eficientes e escaláveis, </p>
-        <p>Com expertise em DevOps e Bash; Certificado em Linux, Docker ( + Swarm & Compose), Kubernetes, SQL e Git; Atualmente estudando JavaScript, Typescript, React e Angular. </p>
+        <p>Com expertise em DevOps e Bash; Certificado em Linux, Docker ( + Swarm & Compose), Kubernetes, SQL e Git; JavaScript, Typescript, React e Angular. </p>
 </div>
 
 > [!NOTE]
