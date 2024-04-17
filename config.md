@@ -1,4 +1,6 @@
-<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/MyConfigBannerv2.png?raw=true">
+<div align="center">
+    <img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/MyConfigBannerv2.png?raw=true">
+</div>
 
 <blockquote> <img src="https://github.com/Harlocks/design/blob/main/assets/thirdEmojis/ae031e9834d19166598edd060b063d44f1829139%20(1).gif?raw=true"> My favorite extensions, themes, icons, fonts, apps, scripts and commands. :D
 </blockquote>
