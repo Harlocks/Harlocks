@@ -15,6 +15,7 @@
         <p>Com expertise em DevOps e Bash; Certificado em Linux, Docker ( + Swarm & Compose), Kubernetes, SQL e Git; JavaScript, Typescript, React e Angular. </p>
 </div>
 
+[comment]: <> (Separator)
 <img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
 
 > [!NOTE]
