@@ -1,6 +1,3 @@
-[comment]: <> (Linha de Separação)
-<img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
-
 <img align="right" src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/characters/images.png" width="300px">
 
 <div align="right">
