@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.discordapp.com/attachments/1216424224475058358/1218643533561593897/images_1.png?ex=6608693b&is=65f5f43b&hm=088d1a1138ee7c717f369d90542bd6802cd31a9c0e856d59dc48b36f94a9592b&" width="300px">
+<img align="right" src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/characters/images.png" width="300px">
 
 <div align="right">
     <h3>🔷 Advocate (INFJ-A)</h3>
