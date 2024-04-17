@@ -24,22 +24,28 @@
 > Além do exposto, detenho proficiência em HTML, CSS, YAML e Markdown.
 
 [comment]: <> (Fundamentos da programação)
-- <a href=""><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Fundamentos da programação<b/>
+- <a href="https://www.linkedin.com/learning/certificates/504f4d9f40072b744092bb6c2950823c9a445bd505361a698ef34e99055a8a36"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Fundamentos da programação<b/>
 
 [comment]: <> (4Linux - 701 Linux Fundamentals)
-- <a href=""><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> 4Linux - 701 Linux Fundamentals<b/>
+- <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1669678508/1367924847ER.pdf"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> 4Linux - 701 Linux Fundamentals<b/>
 
 [comment]: <> (4Linux - 702 Linux Essentials)
-- <a href=""><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> 4Linux - 702 Linux Essentials<b/>
+- <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1675391171/1810068390ER.pdf"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> 4Linux - 702 Linux Essentials<b/>
 
 [comment]: <> (4Linux - 538 Containers Fundamentals)
-- <a href=""><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> 4Linux - 538 Containers Fundamentals<b/>
+- <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1676249944/1781286897ER.pdf"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> 4Linux - 538 Containers Fundamentals<b/>
+
+[comment]: <> (Kali Linux - NMap Hacking e Pentest)
+- <a href="https://www.udemy.com/certificate/UC-e8b41492-3cd0-46c1-b856-0f735d019834/"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Kali Linux - NMap (Hacking e Pentest)<b/>
 
 [comment]: <> (SQL - MySQL do Básico ao Avançado)
-- <a href=""><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> SQL - MySQL do Básico ao Avançado<b/>
+- <a href="https://www.udemy.com/certificate/UC-aa4e9467-d4f2-4b8a-86dd-a66195db4539/"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> SQL - MySQL do Básico ao Avançado<b/>
 
 [comment]: <> (Docker para Desenvolvedores - com Docker Swarm e Kubernetes)
-- <a href=""><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Docker para Desenvolvedores - com Docker Swarm e Kubernetes<b/>
+- <a href="https://www.udemy.com/certificate/UC-617eb56e-2a47-4315-ae81-f21d7c7c11d6/"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Docker para Desenvolvedores - com Docker Swarm e Kubernetes<b/>
+
+[comment]: <> (Computação em Nuvem AWS - 2019)
+- <a href="https://www.udemy.com/certificate/UC-BQ9AEU2Z/"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Computação em Nuvem AWS - 2019<b/>
 
 [comment]: <> (Dio - Primeiros passos com Git e GitHub)
-- <a href=""><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Dio - Primeiros passos com Git e GitHub<b/>
+- <a href="https://github.com/Harlocks/certificates/blob/main/certificates/Dio%20-%20Primeiros%20passos%20com%20Git%20e%20Github.pdf"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Dio - Primeiros passos com Git e GitHub<b/>
