@@ -20,6 +20,8 @@
 > [!NOTE]
 > Além do exposto, detenho proficiência em HTML, CSS, YAML e Markdown.
 
+<img src="https://github.com/Harlocks/design/blob/main/assets/inkscape/banners/Certificates.png?raw=true">
+
 [comment]: <> (Fundamentos da programação)
 - <a href="https://www.linkedin.com/learning/certificates/504f4d9f40072b744092bb6c2950823c9a445bd505361a698ef34e99055a8a36"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Fundamentos da programação<b/>
 
@@ -46,3 +48,5 @@
 
 [comment]: <> (Dio - Primeiros passos com Git e GitHub)
 - <a href="https://github.com/Harlocks/certificates/blob/main/certificates/Dio%20-%20Primeiros%20passos%20com%20Git%20e%20Github.pdf"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Dio - Primeiros passos com Git e GitHub<b/>
+
+<h3>🔷 STACKS</h3>
