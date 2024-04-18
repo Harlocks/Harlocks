@@ -6,7 +6,7 @@
 </blockquote>
 
 [comment]: <> (Separator)
-<img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
+<img align="center" src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Separator.png?raw=true">
 
 <div>
     <h4>Operational System</h4>
