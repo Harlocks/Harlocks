@@ -1,22 +1,22 @@
-<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=65ea14c9&is=65d79fc9&hm=e9cef3e324047139f1c3378773cc49bfc0bb540e7f3895e4ecef99768429bd04&'>
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
 
 <!-- Decerto, a busca pela sabedoria tem dois caminhos: Buscar agradar unicamente em primeiro lugar Deus, e ser salvo. Ou... Agradar unicamente a humanidade, e ser um tolo, pecador, e perder a salvação. Cavalheiros e madames, eu escolho o primeiro caminho. -->
 
 Na busca pela sabedoria, verdade e conhecimento divino, surgem dois caminhos: agradar a Deus ou agradar à humanidade. Em qualquer atitude que você tomar na vida, deve perguntar-se: 'Deus aprova esse pensamento?' e não se as pessoas ao seu redor vão gostar dele. Defenda a verdade, mesmo que isso lhe traga uma solidão infindável. [...]
 
-<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=65ea14c9&is=65d79fc9&hm=e9cef3e324047139f1c3378773cc49bfc0bb540e7f3895e4ecef99768429bd04&'>
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
 <!-- —————— Versículos (ABERTURA) —————— -->
 
 Bem-aventurados os que sofrem perseguição por causa da justiça, porque deles é o reino dos céus;
 <strong> ——— ( Mateus 5:10 ) </strong>
 
-<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=65ea14c9&is=65d79fc9&hm=e9cef3e324047139f1c3378773cc49bfc0bb540e7f3895e4ecef99768429bd04&'>
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
 
 E a condenação é esta: Que a luz veio ao mundo, e os homens amaram mais as trevas do que a luz, porque as suas obras eram más.
 Porque todo aquele que faz o mal odeia a luz, e não vem para a luz, para que as suas obras não sejam reprovadas.
 Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam manifestas, porque são feitas em Deus.
 <strong> ——— ( João 3:19-21 ) </strong>
-<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=65ea14c9&is=65d79fc9&hm=e9cef3e324047139f1c3378773cc49bfc0bb540e7f3895e4ecef99768429bd04&'>
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
 
 </em> <!-- —————— Versículos (FECHAMENTO) —————— -->
 
@@ -115,11 +115,11 @@ No momento, estou organizando e focando em criar projetos Open Source. Sou muito
 <img width="16" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png">
 
 <div align="center">
-<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=65ea14c9&is=65d79fc9&hm=e9cef3e324047139f1c3378773cc49bfc0bb540e7f3895e4ecef99768429bd04&'>
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
 O design, estrutura e artes neste repositório foram criados por mim usando o software OpenSource <a href="https://inkscape.org/pt-br/">Inkscape</a>
 <br>
 <q><em>Prezo pela linha mais perto da autenticidade, pois é ela que move a inovação. </em></q>
 </div>
-<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=65ea14c9&is=65d79fc9&hm=e9cef3e324047139f1c3378773cc49bfc0bb540e7f3895e4ecef99768429bd04&'>
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
 
 teste ssh
