@@ -118,8 +118,6 @@ No momento, estou organizando e focando em criar projetos Open Source. Sou muito
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
 O design, estrutura e artes neste repositório foram criados por mim usando o software OpenSource <a href="https://inkscape.org/pt-br/">Inkscape</a>
 <br>
-<q><em>Prezo pela linha mais perto da autenticidade, pois é ela que move a inovação. </em></q>
+<q><em>Prezo pela linha mais perto da autenticidade, pois é ela que move a inovação.</em></q>
 </div>
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
-
-teste ssh
