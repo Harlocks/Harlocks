@@ -22,7 +22,7 @@
 > Além do exposto, detenho proficiência em HTML, CSS, YAML e Markdown. -->
 <img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerCertificatev2.png?raw=true">
 
-<p align="left">
+<div align="left">
     <a href="https://www.linkedin.com/learning/certificates/504f4d9f40072b744092bb6c2950823c9a445bd505361a698ef34e99055a8a36">
         <img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circle.png?raw=true">
     </a>
@@ -68,7 +68,7 @@
     </a>
     Dio - Primeiros passos com Git e Github
     <br>
-</p>
+</div>
 
 <!-- <p align="center">
     <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
