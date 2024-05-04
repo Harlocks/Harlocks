@@ -18,8 +18,6 @@
 [comment]: <> (Separator)
 <img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
 
-<!-- > [!NOTE]
-> Além do exposto, detenho proficiência em HTML, CSS, YAML e Markdown. -->
 <img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerCertificatev2.png?raw=true">
 
 <div align="left">
@@ -51,6 +49,10 @@
     Dio - Primeiros passos com Git e Github
     <br>
 </div>
+
+> [!NOTE]
+> Verifique que cada texto tem uma bolinha azul do lado esquerdo, clique em cima dela e você será redirecionado(a) à página de certificação. Caso precise verificar a autenticidade das informações, verifique o código do certificado e acesse o link instruído no mesmo. 
+
 
 <!-- <p align="center">
     <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
