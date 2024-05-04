@@ -23,6 +23,39 @@
 
 <img src="https://github.com/Harlocks/design/blob/main/assets/inkscape/banners/Certificates.png?raw=true">
 
+<p align="center">
+    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
+    <a>Fundamentos da Programação</a>
+    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
+    <a>4Linux - 701 Linux Fundamentals</a>
+    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
+    <a>4Linux - 702 Linux Essentials</a>
+    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
+    <a>Kali Linux - NMap (Hacking e Pentest)</a>
+    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
+    <a>SQL - MYSQL do Básico ao avançado</a>
+    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
+    <a>Docker para Desenvolvedores - com Docker Swarm e Kubernetes</a>
+    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
+    <a>Computação em Nuvem AWS - 2019</a>
+    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
+    <a>Dio - Primeiros passos com Git e Github</a>
+
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 - <a href="https://www.linkedin.com/learning/certificates/504f4d9f40072b744092bb6c2950823c9a445bd505361a698ef34e99055a8a36"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Fundamentos da programação</b> <!-- [comment]: <> (Fundamentos da programação) -->
 - <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1669678508/1367924847ER.pdf"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> 4Linux - 701 Linux Fundamentals<b/> <!-- [comment]: <> (4Linux - 701 Linux Fundamentals) -->
 - <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1675391171/1810068390ER.pdf"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> 4Linux - 702 Linux Essentials<b/> <!-- [comment]: <> (4Linux - 702 Linux Essentials) -->
