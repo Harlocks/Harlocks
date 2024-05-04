@@ -26,13 +26,11 @@
     <a href="https://www.linkedin.com/learning/certificates/504f4d9f40072b744092bb6c2950823c9a445bd505361a698ef34e99055a8a36"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circle.png?raw=true"></a>
     Fundamentos da Programação
     <br>
-    <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1669678508/1367924847ER.pdf">
-        <img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circle.png?raw=true">
-    </a>
+    <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1669678508/1367924847ER.pdf"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circle.png?raw=true"></a>
     4Linux - 701 Linux Fundamentals
     <br>
     <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1675391171/1810068390ER.pdf">
-        <img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circle.png?raw=true">
+    <img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circle.png?raw=true">
     </a>
     4Linux - 702 Linux Essentials
     <br>
