@@ -8,7 +8,7 @@
 <div align="left">
     <h3>Sobre Mim</h3>
         <p>Sou um entusiasta da tecnologia com sólida experiência em administração de sistemas
-            Linux, automação e expertise em ferramentas como Docker e Kubernetes.
+            Linux, SQL, Bash, automação e expertise em ferramentas como Docker e Kubernetes.
             Estou em constante evolução, agora focando no desenvolvimento front-end, estudando JavaScript,
             TypeScript, React e Angular. Determinado a contribuir como Analista para o desenvolvimento
             de sistemas eficientes e escaláveis. </p>
