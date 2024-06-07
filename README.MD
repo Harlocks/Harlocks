@@ -10,7 +10,7 @@ Na busca pela sabedoria, verdade e conhecimento divino, surgem dois caminhos: ag
 Bem-aventurados os que sofrem perseguição por causa da justiça, porque deles é o reino dos céus;
 <strong> ——— ( Mateus 5:10 ) </strong>
 
-<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
+<img src='https://github.com/Harlocks/design/blob/main/assets/figma/separators/Separator.png?raw=true'>
 
 E a condenação é esta: Que a luz veio ao mundo, e os homens amaram mais as trevas do que a luz, porque as suas obras eram más.
 Porque todo aquele que faz o mal odeia a luz, e não vem para a luz, para que as suas obras não sejam reprovadas.
@@ -115,12 +115,12 @@ No momento, estou organizando e focando em criar projetos Open Source. Sou muito
 <img width="16" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png">
 
 <div align="center">
-<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
+<img src='https://github.com/Harlocks/design/blob/main/assets/figma/separators/Separator.png?raw=true'>
 O design, estrutura e artes neste repositório foram criados por mim usando o software OpenSource <a href="https://inkscape.org/pt-br/">Inkscape</a>
 <br>
 <q><em>Prezo pela linha mais perto da autenticidade, pois é ela que move a inovação.</em></q>
 </div>
-<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
+<img src='https://github.com/Harlocks/design/blob/main/assets/figma/separators/Separator.png?raw=true'>
 
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('https://github.com/Harlocks/Harlocks/blob/main/girl.jpg?raw=true'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.5;]{x0000}$}
