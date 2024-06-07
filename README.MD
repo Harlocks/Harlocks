@@ -121,3 +121,6 @@ O design, estrutura e artes neste repositório foram criados por mim usando o so
 <q><em>Prezo pela linha mais perto da autenticidade, pois é ela que move a inovação.</em></q>
 </div>
 <img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('https://github.com/Harlocks/Harlocks/blob/main/girl.jpg?raw=true'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.5;]{x0000}$}
