@@ -1,10 +1,10 @@
-<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
+<img src='https://github.com/Harlocks/design/blob/main/assets/figma/separators/Separator.png?raw=true'>
 
 <!-- Decerto, a busca pela sabedoria tem dois caminhos: Buscar agradar unicamente em primeiro lugar Deus, e ser salvo. Ou... Agradar unicamente a humanidade, e ser um tolo, pecador, e perder a salvação. Cavalheiros e madames, eu escolho o primeiro caminho. -->
 
 Na busca pela sabedoria, verdade e conhecimento divino, surgem dois caminhos: agradar a Deus ou agradar à humanidade. Em qualquer atitude que você tomar na vida, deve perguntar-se: 'Deus aprova esse pensamento?' e não se as pessoas ao seu redor vão gostar dele. Defenda a verdade, mesmo que isso lhe traga uma solidão infindável. [...]
 
-<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
+<img src='https://github.com/Harlocks/design/blob/main/assets/figma/separators/Separator.png?raw=true'>
 <!-- —————— Versículos (ABERTURA) —————— -->
 
 Bem-aventurados os que sofrem perseguição por causa da justiça, porque deles é o reino dos céus;
