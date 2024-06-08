@@ -85,6 +85,13 @@
 - ⏳ **Tint2Theme** ——— (Tema criado por mim para a barra Tint2)
 - ⏳ [**Keypirinha | pt-BR**](https://github.com/Harlocks/keypirinha) ——— (Arquivos de configurações + Tradução)
 
+[comment]: <> (Separator)
+<img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
+
+<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerCheckMyConfig.png?raw=true">
+
+<a href="https://github.com/Harlocks/dotfiles"><img src="https://github.com/Harlocks/design/blob/main/assets/inkscape/icons/apply.png?raw=true"/> 」<b>MyDotFiles</b></a>
+
 <!-- <p align="center">
     <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
     <a>Fundamentos da Programação</a>
