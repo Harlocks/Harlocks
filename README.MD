@@ -93,7 +93,7 @@
 
 <img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/My%20Config%20-%20%20Anime.png?raw=true">
 
-<a href="https://github.com/Harlocks/dotfiles"><img src="https://github.com/Harlocks/design/blob/main/assets/inkscape/icons/apply.png?raw=true"/> 」<b>MyDotFiles</b></a>
+- <a href="https://github.com/Harlocks/dotfiles"><img src="https://github.com/Harlocks/design/blob/main/assets/inkscape/icons/apply.png?raw=true"/> <b>MyDotFiles</b></a>
 
 <div align="center">
 <img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
