@@ -1,137 +1,123 @@
-<img align="right" src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/characters/images.png" width="300px">
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
 
-<div align="right">
-    <h3>🔷 Advocate (INFJ-A)</h3>
-    <h4>🔶 Diplomat - <a href="https://www.16personalities.com/profiles/b09e726debf10" target="_blank">Check My Profile</a></h4>
-</div>
+<!-- Decerto, a busca pela sabedoria tem dois caminhos: Buscar agradar unicamente em primeiro lugar Deus, e ser salvo. Ou... Agradar unicamente a humanidade, e ser um tolo, pecador, e perder a salvação. Cavalheiros e madames, eu escolho o primeiro caminho. -->
 
-<div align="left">
-    <h3>Sobre Mim</h3>
-        <p>Sou um entusiasta da tecnologia com sólida experiência em administração de sistemas
-            Linux, SQL, Bash, automação e expertise em ferramentas como Docker e Kubernetes.
-            Estou em constante evolução, agora focando no desenvolvimento front-end, estudando JavaScript,
-            TypeScript, React e Angular. Determinado a contribuir como Analista para o desenvolvimento
-            de sistemas eficientes e escaláveis. </p>
-        <!-- <p>Com expertise em DevOps e Bash; Certificado em Linux, Docker ( + Swarm & Compose), Kubernetes, SQL e Git; JavaScript, Typescript, React e Angular. </p> -->
-</div>
+Na busca pela sabedoria, verdade e conhecimento divino, surgem dois caminhos: agradar a Deus ou agradar à humanidade. Em qualquer atitude que você tomar na vida, deve perguntar-se: 'Deus aprova esse pensamento?' e não se as pessoas ao seu redor vão gostar dele. Defenda a verdade, mesmo que isso lhe traga uma solidão infindável. [...]
 
-[comment]: <> (Separator)
-<img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
+<!-- —————— Versículos (ABERTURA) —————— -->
 
-<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerCertificatev2.png?raw=true">
+Bem-aventurados os que sofrem perseguição por causa da justiça, porque deles é o reino dos céus;
+<strong> ——— ( Mateus 5:10 ) </strong>
 
-<div align="left">
-    <a href="https://www.linkedin.com/learning/certificates/504f4d9f40072b744092bb6c2950823c9a445bd505361a698ef34e99055a8a36"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
-    Fundamentos da Programação
-    <br>
-    <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1669678508/1367924847ER.pdf"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
-    4Linux - 701 Linux Fundamentals
-    <br>
-    <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1675391171/1810068390ER.pdf"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
-    4Linux - 702 Linux Essentials
-    <br>
-    <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1676249944/1781286897ER.pdf"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
-    4Linux - 538 Containers Fundamentals
-    <br>
-    <a href="https://www.udemy.com/certificate/UC-e8b41492-3cd0-46c1-b856-0f735d019834/"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
-    Kali Linux - NMap (Hacking Pentest)
-    <br>
-    <a href="https://www.udemy.com/certificate/UC-aa4e9467-d4f2-4b8a-86dd-a66195db4539/"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
-    SQL - MySQL do Básico ao avançado
-    <br>
-    <a href="https://www.udemy.com/certificate/UC-617eb56e-2a47-4315-ae81-f21d7c7c11d6/"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
-    Docker para Desenvoldores - com Docker Swarm e Kubernetes
-    <br>
-    <a href="https://www.udemy.com/certificate/UC-BQ9AEU2Z/"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
-    Computação em Nuvem AWS - 2019
-    <br>
-    <a href="https://github.com/Harlocks/certificates/blob/main/certificates/Dio%20-%20Primeiros%20passos%20com%20Git%20e%20Github.pdf"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
-    Dio - Primeiros passos com Git e Github
-    <br>
-</div>
-<br>
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
 
-> [!NOTE]
-> Verifique que cada texto tem uma bolinha azul do lado esquerdo, clique em cima dela e você será redirecionado(a) à página de certificação. Caso precise verificar a autenticidade das informações, verifique o código do certificado e acesse o link instruído no mesmo. 
+E a condenação é esta: Que a luz veio ao mundo, e os homens amaram mais as trevas do que a luz, porque as suas obras eram más.
+Porque todo aquele que faz o mal odeia a luz, e não vem para a luz, para que as suas obras não sejam reprovadas.
+Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam manifestas, porque são feitas em Deus.
+<strong> ——— ( João 3:19-21 ) </strong>
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
 
-<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerStacks.png?raw=true">
+</em> <!-- —————— Versículos (FECHAMENTO) —————— -->
 
-![Bash Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Bash.png?raw=true "Bash")
-![Linux Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Linux.png?raw=true "Linux")
-![Github Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Github.png?raw=true "Github")
-![Markdown Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Markdown.png?raw=true "Markdown")
-![C Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/C.png?raw=true "C")
-![Python Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Python.png?raw=true "Python")
-![Javascript Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Javascript.png?raw=true "Javascript")
-![HTML5 Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/HTML%205.png?raw=true "HTML5")
-![CSS3 Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/CSS%203.png?raw=true "CSS3")
-![Git Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Git.png?raw=true "Git")
-![Docker Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Docker.png?raw=true "Docker")
-![Kubernetes Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Kubernetes.png?raw=true "Kubernetes")
-![SQL Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/SQL.png?raw=true "SQL")
-![MySQL Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/MySQL.png?raw=true "MySQL")
-![YAML Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/YAML.png?raw=true "YAML")
-![JSON Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/JSON.png?raw=true "JSON")
-![Arch Linux Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Arch%20Linux.png?raw=true "Arch Linux")
-![Debian Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Debian.png?raw=true "Debian")
-![CentOS Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/CentOS.png?raw=true "CentOS")
-![Redhat Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/RedHat.png?raw=true "Redhat")
-![Ubuntu Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Ubuntu.png?raw=true "Ubuntu")
+<img width="" src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/SobreMim28pxV2.png">
 
-<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerProjects.png?raw=true">
+<!-- —————— SOBRE MIM (ABERTURA) —————— -->
+<!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) SOBRE MIM  -->
+<!--
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/sobremim28px.png"> -->
 
-- ⏳ [**Badges GitHub**](https://github.com/Harlocks/design/tree/main/assets/figma/stacks/v1) ——— (Emblemas para usar no perfil do Github)
+Cursando ![](https://cdn.discordapp.com/attachments/757631178193764474/1072989961403506770/graduation.png) **Análise e Desenvolvimento de Sistemas**.
+
+No momento, estou organizando e focando em criar projetos Open Source. Sou muito perfeccionista e gosto de deixar as coisas o mais detalhadas possível (tem dúvidas? Só olhar este README XD). Até agora, não cheguei efetivamente a construir um "PROJETO" que possa transmitir o significado do nome em sua mais íntima essência..
+
+<!-- —————— SOBRE MIM (FECHAMENTO) —————— -->
+
+<!-- —————— CERTIFICAÇÕES (ABERTURA) —————— -->
+
+<!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) CERTIFICAÇÕES -->
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Certificados28pxV2.png">
+<!-- <img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/certificacoes28px.png"> -->
+
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png?ex=65e8de36&is=65d66936&hm=4c089b125a00e9caa59c34f5b462f4ceb10870706721dd9a9a625b1aff28df04&) **Fundamentos da Programação**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png?ex=65e8de36&is=65d66936&hm=4c089b125a00e9caa59c34f5b462f4ceb10870706721dd9a9a625b1aff28df04&) **4Linux - 701 - Linux Fundamentals**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png?ex=65e8de36&is=65d66936&hm=4c089b125a00e9caa59c34f5b462f4ceb10870706721dd9a9a625b1aff28df04&) **4Linux - 702 - Linux Essentials**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png?ex=65e8de36&is=65d66936&hm=4c089b125a00e9caa59c34f5b462f4ceb10870706721dd9a9a625b1aff28df04&) **4Linux - 538 - Containers Fundamentals**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png?ex=65e8de36&is=65d66936&hm=4c089b125a00e9caa59c34f5b462f4ceb10870706721dd9a9a625b1aff28df04&) **SQL - MySQL do Básico ao Avançado**
+- ![](https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png?ex=65e8de36&is=65d66936&hm=4c089b125a00e9caa59c34f5b462f4ceb10870706721dd9a9a625b1aff28df04&) **Docker para Desenvolvedores (com Docker Swarm e Kubernetes)**
+- <a href="https://github.com/Harlocks/certificates/blob/main/certificates/Dio%20-%20Primeiros%20passos%20com%20Git%20e%20Github.pdf"><img width="12" src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/buttons/icon-open24x.png"></a> **Dio - Primeiros passos com Git e Github**
+
+<!-- —————— CERTIFICAÇÕES (FECHAMENTO) —————— -->
+
+<!-- —————— STACKS (ABERTURA) —————— -->
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Stacks28pxV2.png">
+
+<!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) STACKS  -->
+
+![Python Logo](https://cdn.discordapp.com/attachments/569005079932305410/994056796803190844/python.png "Python")
+![Shell Script Logo](https://cdn.discordapp.com/attachments/569005079932305410/994058299215462570/shellscript.png "Shell Script")
+
+<!-- —————— STACKS (FECHAMENTO) —————— -->
+
+<!-- —————— PROJETOS (ABERTURA) —————— -->
+<!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) PROJETOS EM DESENVOLVIMENTO -->
+
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Projetos28pxV2.png">
+
+- ⏳ **Badges GitHub** ——— (Emblemas para usar no perfil do Github)
 - ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— (Alternativa simples ao Neofetch)
 - ⏳ **Tint2Theme** ——— (Tema criado por mim para a barra Tint2)
 - ⏳ [**Keypirinha | pt-BR**](https://github.com/Harlocks/keypirinha) ——— (Arquivos de configurações + Tradução)
+ 
+<!-- —————— PROJETOS (FECHAMENTO) —————— -->
 
-[comment]: <> (Separator)
-<img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
+<!-- REPOSITÓRIOS (ABERTURA) -->
 
-<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerCheckMyConfig.png?raw=true">
-
-<a href="https://github.com/Harlocks/dotfiles"><img src="https://github.com/Harlocks/design/blob/main/assets/inkscape/icons/apply.png?raw=true"/> 」<b>MyDotFiles</b></a>
+<a href="https://github.com/Harlocks?tab=repositories"><img src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Repositorios28pxV2.png'></a>
 
 <div align="center">
-<img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
-A maioria do design, estrutura e artes neste repositório foram criados por mim usando o software OpenSource <a href="https://inkscape.org/pt-br/">Inkscape</a> e o software <a href="https://www.figma.com/">Figma</a>.
+    <a href="https://github.com/Harlocks/keypirinha"><img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/keypirinhaV6.png"></a>
+    <a href="https://github.com/Harlocks/design"><img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/designV6.png"></a>
+    <a href="https://github.com/Harlocks/certificates"><img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/certificadosv6.png"></a>
+</div>
+
+<!-- REPOSITÓRIOS (FECHAMENTO) -->
+
+<!-- —————— CONFIGURAÇÃO (ABERTURA) —————— -->
+<!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) MINHA CONFIG  -->
+<img src="https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/MinhaConfig28pxV2.png">
+
+| ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385000350761040/FONTES.png) |     ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385861273604216/TEMAS.png)     | ![](https://cdn.discordapp.com/attachments/757631178193764474/1078385881527898203/SO.png) |
+| :-------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+|                      [Iosevka](https://github.com/be5invis/iosevka)</li>                      |   [Dobri Next -C04- Material](https://marketplace.visualstudio.com/items?itemName=sldobri.bunker)    |                                        Windows 10                                         |
+|                     [Monaco](https://github.com/taodongl/monaco.ttf)</li>                     | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) |                                        Arch + KDE                                         |
+|                  [Cascadia Code](https://github.com/microsoft/cascadia-code)                  |                [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)                |                                         Linux Mint                                         |
+|             [Victor Mono](https://rubjo.github.io/victor-mono/)                                                                      |       [Mac Icons](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-icons-mac)        |                                          Ultramarine OS                                        |
+| Dank Mono | Moxer Icons + Min Theme | MacOS (Sonoma) |
+<!-- —————— CONFIGURAÇÃO (FECHAMENTO) —————— -->
+
+<!-- —————— REDE (ABERTURA) —————— -->
+<!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) REDE  -->
+
+<img src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Rede28pxV2.png'>
+
+<a href="https://www.linkedin.com/in/erickrobert/"><img width="42" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png"/></a>
+
+<!-- —————— REDE (FECHAMENTO) —————— -->
+
+<!-- #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) CRÉDITOS -->
+
+<img src='https://raw.githubusercontent.com/Harlocks/design/main/assets/inkscape/banners/Creditos28pxV3.png'>
+
+Ícones que foram retirados do [Icons8](https://icons8.com.br/):
+<img width="16" src="https://cdn.discordapp.com/attachments/757631178193764474/1072989961403506770/graduation.png?ex=65e8ddc5&is=65d668c5&hm=8ed8bb9e9456c4f0c3c302f705dde760b1acd466751f5fbc766f874e32b16e1c&">
+<img width="16" src="https://cdn.discordapp.com/attachments/757631178193764474/1072990432855871550/certificate.png?ex=65e8de36&is=65d66936&hm=4c089b125a00e9caa59c34f5b462f4ceb10870706721dd9a9a625b1aff28df04&">
+<img width="16" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png">
+
+<div align="center">
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
+O design, estrutura e artes neste repositório foram criados por mim usando o software OpenSource <a href="https://inkscape.org/pt-br/">Inkscape</a>
 <br>
 <q><em>Prezo pela linha mais perto da autenticidade, pois é ela que move a inovação.</em></q>
 </div>
-<img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
-
-<!-- <p align="center">
-    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
-    <a>Fundamentos da Programação</a>
-    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
-    <a>4Linux - 701 Linux Fundamentals</a>
-    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
-    <a>4Linux - 702 Linux Essentials</a>
-    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
-    <a>Kali Linux - NMap (Hacking e Pentest)</a>
-    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
-    <a>SQL - MYSQL do Básico ao avançado</a>
-    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
-    <a>Docker para Desenvolvedores - com Docker Swarm e Kubernetes</a>
-    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
-    <a>Computação em Nuvem AWS - 2019</a>
-    <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
-    <a>Dio - Primeiros passos com Git e Github</a>
-</p> -->
-
-<!--
-- <a href="https://www.linkedin.com/learning/certificates/504f4d9f40072b744092bb6c2950823c9a445bd505361a698ef34e99055a8a36"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Fundamentos da programação</b> 
-- <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1669678508/1367924847ER.pdf"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> 4Linux - 701 Linux Fundamentals<b/> 
-- <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1675391171/1810068390ER.pdf"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> 4Linux - 702 Linux Essentials<b/> 
-- <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1676249944/1781286897ER.pdf"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> 4Linux - 538 Containers Fundamentals<b/> 
-- <a href="https://www.udemy.com/certificate/UC-e8b41492-3cd0-46c1-b856-0f735d019834/"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Kali Linux - NMap (Hacking e Pentest)<b/> 
-- <a href="https://www.udemy.com/certificate/UC-aa4e9467-d4f2-4b8a-86dd-a66195db4539/"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> SQL - MySQL do Básico ao Avançado<b/> 
-- <a href="https://www.udemy.com/certificate/UC-617eb56e-2a47-4315-ae81-f21d7c7c11d6/"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Docker para Desenvolvedores - com Docker Swarm e Kubernetes<b/> 
-- <a href="https://www.udemy.com/certificate/UC-BQ9AEU2Z/"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Computação em Nuvem AWS - 2019<b/>
-- <a href="https://github.com/Harlocks/certificates/blob/main/certificates/Dio%20-%20Primeiros%20passos%20com%20Git%20e%20Github.pdf"><img src="https://raw.githubusercontent.com/Harlocks/design/b9b7ba98d2e3a76790b37dc74058a2a9fff94af0/assets/inkscape/buttons/RedirectFigma.png"><a/><b> Dio - Primeiros passos com Git e GitHub<b/>
--->
-
-asdasdsad
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('https://github.com/Harlocks/Harlocks/blob/dev/Wall.jpg?raw=true'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.5;]{x0000}$}
+<img src='https://cdn.discordapp.com/attachments/757631178193764474/1070787193859227708/line.png?ex=6633e8c9&is=662173c9&hm=c84f5e81ae8b5c79613f0d2137b866799a7657ee3cd199079c46b23aa82af7ff&'>
