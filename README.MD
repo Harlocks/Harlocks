@@ -78,6 +78,9 @@
 ![Redhat Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/RedHat.png?raw=true "Redhat")
 ![Ubuntu Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Ubuntu.png?raw=true "Ubuntu")
 
+<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerProjects.png?raw=true">
+
+
 
 <!-- <p align="center">
     <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
