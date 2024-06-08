@@ -80,7 +80,7 @@
 
 <img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerProjects.png?raw=true">
 
-- ⏳ **Badges GitHub** ——— (Emblemas para usar no perfil do Github)
+- ⏳ [**Badges GitHub**](https://github.com/Harlocks/design/tree/main/assets/figma/stacks/v1) ——— (Emblemas para usar no perfil do Github)
 - ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— (Alternativa simples ao Neofetch)
 - ⏳ **Tint2Theme** ——— (Tema criado por mim para a barra Tint2)
 - ⏳ [**Keypirinha | pt-BR**](https://github.com/Harlocks/keypirinha) ——— (Arquivos de configurações + Tradução)
