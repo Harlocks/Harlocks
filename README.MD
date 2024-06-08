@@ -21,31 +21,31 @@
 <img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/Certificates%20-%20Anime.png?raw=true">
 
 <div align="left">
-    <a href="https://www.linkedin.com/learning/certificates/504f4d9f40072b744092bb6c2950823c9a445bd505361a698ef34e99055a8a36"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
+    <a href="https://www.linkedin.com/learning/certificates/504f4d9f40072b744092bb6c2950823c9a445bd505361a698ef34e99055a8a36"><img src="https://github.com/Harlocks/design/blob/main/assets/thirdIcons/starIcon16px.png?raw=true"></a>
     Fundamentos da Programação
     <br>
-    <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1669678508/1367924847ER.pdf"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
+    <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1669678508/1367924847ER.pdf"><img src="https://github.com/Harlocks/design/blob/main/assets/thirdIcons/starIcon16px.png?raw=true"></a>
     4Linux - 701 Linux Fundamentals
     <br>
-    <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1675391171/1810068390ER.pdf"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
+    <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1675391171/1810068390ER.pdf"><img src="https://github.com/Harlocks/design/blob/main/assets/thirdIcons/starIcon16px.png?raw=true"></a>
     4Linux - 702 Linux Essentials
     <br>
-    <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1676249944/1781286897ER.pdf"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
+    <a href="https://aia.4linux.com.br/pluginfile.php/1/tool_certificate/issues/1676249944/1781286897ER.pdf"><img src="https://github.com/Harlocks/design/blob/main/assets/thirdIcons/starIcon16px.png?raw=true"></a>
     4Linux - 538 Containers Fundamentals
     <br>
-    <a href="https://www.udemy.com/certificate/UC-e8b41492-3cd0-46c1-b856-0f735d019834/"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
+    <a href="https://www.udemy.com/certificate/UC-e8b41492-3cd0-46c1-b856-0f735d019834/"><img src="https://github.com/Harlocks/design/blob/main/assets/thirdIcons/starIcon16px.png?raw=true"></a>
     Kali Linux - NMap (Hacking Pentest)
     <br>
-    <a href="https://www.udemy.com/certificate/UC-aa4e9467-d4f2-4b8a-86dd-a66195db4539/"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
+    <a href="https://www.udemy.com/certificate/UC-aa4e9467-d4f2-4b8a-86dd-a66195db4539/"><img src="https://github.com/Harlocks/design/blob/main/assets/thirdIcons/starIcon16px.png?raw=true"></a>
     SQL - MySQL do Básico ao avançado
     <br>
-    <a href="https://www.udemy.com/certificate/UC-617eb56e-2a47-4315-ae81-f21d7c7c11d6/"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
+    <a href="https://www.udemy.com/certificate/UC-617eb56e-2a47-4315-ae81-f21d7c7c11d6/"><img src="https://github.com/Harlocks/design/blob/main/assets/thirdIcons/starIcon16px.png?raw=true"></a>
     Docker para Desenvoldores - com Docker Swarm e Kubernetes
     <br>
-    <a href="https://www.udemy.com/certificate/UC-BQ9AEU2Z/"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
+    <a href="https://www.udemy.com/certificate/UC-BQ9AEU2Z/"><img src="https://github.com/Harlocks/design/blob/main/assets/thirdIcons/starIcon16px.png?raw=true"></a>
     Computação em Nuvem AWS - 2019
     <br>
-    <a href="https://github.com/Harlocks/certificates/blob/main/certificates/Dio%20-%20Primeiros%20passos%20com%20Git%20e%20Github.pdf"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
+    <a href="https://github.com/Harlocks/certificates/blob/main/certificates/Dio%20-%20Primeiros%20passos%20com%20Git%20e%20Github.pdf"><img src="https://github.com/Harlocks/design/blob/main/assets/thirdIcons/starIcon16px.png?raw=true"></a>
     Dio - Primeiros passos com Git e Github
     <br>
 </div>
