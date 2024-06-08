@@ -92,6 +92,14 @@
 
 <a href="https://github.com/Harlocks/dotfiles"><img src="https://github.com/Harlocks/design/blob/main/assets/inkscape/icons/apply.png?raw=true"/> 」<b>MyDotFiles</b></a>
 
+<div align="center">
+<img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
+A maioria do design, estrutura e artes neste repositório foram criados por mim usando o software OpenSource <a href="https://inkscape.org/pt-br/">Inkscape</a> e o software <a href="https://www.figma.com/">Figma</a>.
+<br>
+<q><em>Prezo pela linha mais perto da autenticidade, pois é ela que move a inovação.</em></q>
+</div>
+<img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
+
 <!-- <p align="center">
     <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
     <a>Fundamentos da Programação</a>
