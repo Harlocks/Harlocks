@@ -54,6 +54,10 @@
 > [!NOTE]
 > Verifique que cada texto tem uma bolinha azul do lado esquerdo, clique em cima dela e você será redirecionado(a) à página de certificação. Caso precise verificar a autenticidade das informações, verifique o código do certificado e acesse o link instruído no mesmo. 
 
+<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerStacks.png?raw=true">
+
+
+
 
 <!-- <p align="center">
     <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
