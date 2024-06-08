@@ -80,7 +80,10 @@
 
 <img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerProjects.png?raw=true">
 
-
+- ⏳ **Badges GitHub** ——— (Emblemas para usar no perfil do Github)
+- ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— (Alternativa simples ao Neofetch)
+- ⏳ **Tint2Theme** ——— (Tema criado por mim para a barra Tint2)
+- ⏳ [**Keypirinha | pt-BR**](https://github.com/Harlocks/keypirinha) ——— (Arquivos de configurações + Tradução)
 
 <!-- <p align="center">
     <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
