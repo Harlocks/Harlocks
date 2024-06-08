@@ -57,8 +57,6 @@
 <img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerStacks.png?raw=true">
 
 
-
-
 <!-- <p align="center">
     <img src="https://github.com/Harlocks/keypirinha/blob/main/assets/images/separatorCircle.png?raw=true">
     <a>Fundamentos da Programação</a>
