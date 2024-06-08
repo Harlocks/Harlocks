@@ -18,7 +18,7 @@
 [comment]: <> (Separator)
 <img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
 
-<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerCertificatev2.png?raw=true">
+<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/Certificates%20-%20Anime.png?raw=true">
 
 <div align="left">
     <a href="https://www.linkedin.com/learning/certificates/504f4d9f40072b744092bb6c2950823c9a445bd505361a698ef34e99055a8a36"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
@@ -54,31 +54,34 @@
 > [!NOTE]
 > Verifique que cada texto tem uma bolinha azul do lado esquerdo, clique em cima dela e você será redirecionado(a) à página de certificação. Caso precise verificar a autenticidade das informações, verifique o código do certificado e acesse o link instruído no mesmo. 
 
-<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerStacks.png?raw=true">
+<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/Stacks%20-%20Anime.png?raw=true">
 
-![Bash Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Bash.png?raw=true "Bash")
-![Linux Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Linux.png?raw=true "Linux")
-![Github Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Github.png?raw=true "Github")
-![Markdown Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Markdown.png?raw=true "Markdown")
-![C Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/C.png?raw=true "C")
-![Python Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Python.png?raw=true "Python")
-![Javascript Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Javascript.png?raw=true "Javascript")
-![HTML5 Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/HTML%205.png?raw=true "HTML5")
-![CSS3 Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/CSS%203.png?raw=true "CSS3")
-![Git Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Git.png?raw=true "Git")
-![Docker Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Docker.png?raw=true "Docker")
-![Kubernetes Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Kubernetes.png?raw=true "Kubernetes")
-![SQL Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/SQL.png?raw=true "SQL")
-![MySQL Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/MySQL.png?raw=true "MySQL")
-![YAML Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/YAML.png?raw=true "YAML")
-![JSON Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/JSON.png?raw=true "JSON")
-![Arch Linux Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Arch%20Linux.png?raw=true "Arch Linux")
-![Debian Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Debian.png?raw=true "Debian")
-![CentOS Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/CentOS.png?raw=true "CentOS")
-![Redhat Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/RedHat.png?raw=true "Redhat")
-![Ubuntu Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Ubuntu.png?raw=true "Ubuntu")
+![Bash Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/Bash%20-%20V3.png?raw=true "Bash")
+![Linux Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/Linux%20-%20V3.png?raw=true "Linux")
+![Github Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/Github%20-%20V3.png?raw=true "Github")
+![Markdown Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/Markdown%20-%20V3.png?raw=true "Markdown")
+![C Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/C%20-%20V3.png?raw=true "C")
+![Python Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/Python%20-%20V3.png?raw=true "Python")
+![Javascript Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/Javascript%20-%20V3.png?raw=true "Javascript")
+![HTML5 Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/HTML%205%20-%20V3.png?raw=true "HTML5")
+![CSS3 Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/CSS%203%20-%20V3.png?raw=true "CSS3")
+![Git Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/Git%20-%20V3.png?raw=true "Git")
+![Docker Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/Docker%20-%20V3.png?raw=true "Docker")
+![Kubernetes Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/Kubernetes%20-%20V3.png?raw=true "Kubernetes")
+![SQL Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/SQL%20-%20V3.png?raw=true "SQL")
+![MySQL Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/MySQL%20-%20V3.png?raw=true "MySQL")
+![YAML Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/YAML%20-%20V3.png?raw=true "YAML")
+![JSON Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/JSON%20%20-%20V3.png?raw=true "JSON")
+![Figma Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/Figma%20-%20V3.png?raw=true "Figma")
+![Arch Linux Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/Arch%20Linux%20-%20V3.png?raw=true "Arch Linux")
+![Debian Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/Debian%20-%20V3.png?raw=true "Debian")
+![CentOS Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/CentOS%20-%20V3.png?raw=true "CentOS")
+![Redhat Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/RedHat%20-%20V3.png?raw=true "Redhat")
+![Ubuntu Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/Ubuntu%20-%20V3.png?raw=true "Ubuntu")
+![MacOS Sonoma Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/MacOS%20Sonoma%20-%20V3.png?raw=true "MacOS Sonoma")
+![Windows 10 Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v3/Win10%20-%20V3.png?raw=true "Windows 10")
 
-<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerProjects.png?raw=true">
+<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/Projects%20-%20Anime.png?raw=true">
 
 - ⏳ [**Badges GitHub**](https://github.com/Harlocks/design/tree/main/assets/figma/stacks/v1) ——— (Emblemas para usar no perfil do Github)
 - ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— (Alternativa simples ao Neofetch)
@@ -88,9 +91,9 @@
 [comment]: <> (Separator)
 <img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
 
-<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerCheckMyConfig.png?raw=true">
+<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/My%20Config%20-%20%20Anime.png?raw=true">
 
-<a href="https://github.com/Harlocks/dotfiles"><img src="https://github.com/Harlocks/design/blob/main/assets/inkscape/icons/apply.png?raw=true"/> 」<b>MyDotFiles</b></a>
+- <a href="https://github.com/Harlocks/dotfiles"><img src="https://github.com/Harlocks/design/blob/main/assets/inkscape/icons/apply.png?raw=true"/> <b>MyDotFiles</b></a>
 
 <div align="center">
 <img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
