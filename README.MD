@@ -18,7 +18,7 @@
 [comment]: <> (Separator)
 <img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
 
-<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerCertificatev2.png?raw=true">
+<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/Certificates36px.png?raw=true">
 
 <div align="left">
     <a href="https://www.linkedin.com/learning/certificates/504f4d9f40072b744092bb6c2950823c9a445bd505361a698ef34e99055a8a36"><img src="https://github.com/Harlocks/design/blob/main/assets/figma/separators/Circlev2.png?raw=true"></a>
@@ -54,7 +54,7 @@
 > [!NOTE]
 > Verifique que cada texto tem uma bolinha azul do lado esquerdo, clique em cima dela e você será redirecionado(a) à página de certificação. Caso precise verificar a autenticidade das informações, verifique o código do certificado e acesse o link instruído no mesmo. 
 
-<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerStacks.png?raw=true">
+<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/Stacks36px.png?raw=true">
 
 ![Bash Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Bash.png?raw=true "Bash")
 ![Linux Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Linux.png?raw=true "Linux")
@@ -78,7 +78,7 @@
 ![Redhat Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/RedHat.png?raw=true "Redhat")
 ![Ubuntu Logo](https://github.com/Harlocks/design/blob/main/assets/figma/stacks/v1/Ubuntu.png?raw=true "Ubuntu")
 
-<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerProjects.png?raw=true">
+<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/Projects36px.png?raw=true">
 
 - ⏳ [**Badges GitHub**](https://github.com/Harlocks/design/tree/main/assets/figma/stacks/v1) ——— (Emblemas para usar no perfil do Github)
 - ⏳ [**Akfetch**](https://github.com/Harlocks/akfetch) ——— (Alternativa simples ao Neofetch)
@@ -88,7 +88,7 @@
 [comment]: <> (Separator)
 <img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
 
-<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/BannerCheckMyConfig.png?raw=true">
+<img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/MyConfig36px.png?raw=true">
 
 <a href="https://github.com/Harlocks/dotfiles"><img src="https://github.com/Harlocks/design/blob/main/assets/inkscape/icons/apply.png?raw=true"/> 」<b>MyDotFiles</b></a>
 
