@@ -52,7 +52,7 @@
 <br>
 
 > [!NOTE]
-> Verifique que cada texto tem uma bolinha azul do lado esquerdo, clique em cima dela e você será redirecionado(a) à página de certificação. Caso precise verificar a autenticidade das informações, verifique o código do certificado e acesse o link instruído no mesmo. 
+> Verifique que cada texto tem uma estrela do lado esquerdo, clique em cima dela e você será redirecionado(a) à página de certificação. Caso precise verificar a autenticidade das informações, verifique o código do certificado e acesse o link instruído no mesmo. 
 
 <img src="https://github.com/Harlocks/design/blob/main/assets/figma/banners/Stacks%20-%20Anime.png?raw=true">
 
